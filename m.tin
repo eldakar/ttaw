@@ -1,0 +1,14 @@
+#READ {gmcp.tin};
+#read {tools.tin};
+#read {terrain.tin};
+
+#SESSION {aard} {aardmud.org} {4000};
+
+#MAP READ {map.map};
+#variable {debug} {1};
+#VARIABLE {mapping} {1}
+#VARIABLE {showmap} {0}
+#VARIABLE {autoscan} {0}
+#VARIABLE {repoptrack} {1}
+
+#SPLIT 0 2	

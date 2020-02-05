@@ -1,0 +1,2214 @@
+C 50000
+
+V 2020
+
+CAVOID <118>
+CBACKGROUND 
+CBLOCK <218>
+CEXITS <278>
+CHIDE <168>
+CINVISIBLE <208>
+CPATHS <138>
+CROOMS <178>
+CSYMBOLS <128>
+CUSER <118>
+
+F 8206
+
+G 0
+
+I 18
+
+L {ASCII NESW LINE} {NO EXITS} {x}
+L {ASCII NESW LINE} {N} {o}
+L {ASCII NESW LINE} {  E} {o}
+L {ASCII NESW LINE} {N E} {+}
+L {ASCII NESW LINE} {    S} {o}
+L {ASCII NESW LINE} {N   S} {|}
+L {ASCII NESW LINE} {  E S} {+}
+L {ASCII NESW LINE} {N E S} {+}
+L {ASCII NESW LINE} {      W} {o}
+L {ASCII NESW LINE} {N     W} {+}
+L {ASCII NESW LINE} {  E   W} {-}
+L {ASCII NESW LINE} {N E   W} {+}
+L {ASCII NESW LINE} {    S W} {+}
+L {ASCII NESW LINE} {N   S W} {+}
+L {ASCII NESW LINE} {  E S W} {+}
+L {ASCII NESW LINE} {N E S W} {+}
+L {ASCII NESW MISC} {USER} {x}
+L {ASCII NESW MISC} {DIR UNKNOWN} {+}
+L {ASCII NESW MISC} {N S VOID} {|}
+L {ASCII NESW MISC} {E W VOID} {-}
+L {ASCII NESW CURVED} {N E CURVED} {+}
+L {ASCII NESW CURVED} {S E CURVED} {+}
+L {ASCII NESW CURVED} {S W CURVED} {+}
+L {ASCII NESW CURVED} {N W CURVED} {+}
+L {ASCII NESW DIRS} {DIR N} {|}
+L {ASCII NESW DIRS} {DIR NE} {/}
+L {ASCII NESW DIRS} {DIR E} {-}
+L {ASCII NESW DIRS} {DIR SE} {\\}
+L {ASCII NESW DIRS} {DIR S} {|}
+L {ASCII NESW DIRS} {DIR SW} {/}
+L {ASCII NESW DIRS} {DIR W} {-}
+L {ASCII NESW DIRS} {DIR NW} {\\}
+L {NESW LINE} {NO EXITS} {\u2B51}
+L {NESW LINE} {N} {\u2579}
+L {NESW LINE} {  E} {\u257A}
+L {NESW LINE} {N E} {\u2517}
+L {NESW LINE} {    S} {\u257B}
+L {NESW LINE} {N   S} {\u2503}
+L {NESW LINE} {  E S} {\u250F}
+L {NESW LINE} {N E S} {\u2523}
+L {NESW LINE} {      W} {\u2578}
+L {NESW LINE} {N     W} {\u251B}
+L {NESW LINE} {  E   W} {\u2501}
+L {NESW LINE} {N E   W} {\u253B}
+L {NESW LINE} {    S W} {\u2513}
+L {NESW LINE} {N   S W} {\u252B}
+L {NESW LINE} {  E S W} {\u2533}
+L {NESW LINE} {N E S W} {\u254B}
+L {NESW MISC} {USER} {\u2B51}
+L {NESW MISC} {DIR UNKNOWN} {\u2012}
+L {NESW MISC} {N S VOID} {\u2507}
+L {NESW MISC} {E W VOID} {\u254D}
+L {NESW CURVED} {N E CURVED} {\u2570}
+L {NESW CURVED} {S E CURVED} {\u256D}
+L {NESW CURVED} {S W CURVED} {\u256E}
+L {NESW CURVED} {N W CURVED} {\u256F}
+L {NESW DIRS} {DIR N} {\u2191}
+L {NESW DIRS} {DIR NE} {\u2B08}
+L {NESW DIRS} {DIR E} {\u2B95}
+L {NESW DIRS} {DIR SE} {\u2b0A}
+L {NESW DIRS} {DIR S} {\u2193}
+L {NESW DIRS} {DIR SW} {\u2B0B}
+L {NESW DIRS} {DIR W} {\u2B05}
+L {NESW DIRS} {DIR NW} {\u2B09}
+L {MUDFONT NWS} {NO EXITS} {\u28CF}
+L {MUDFONT NWS} {N} {\u28C7}
+L {MUDFONT NWS} {  NW} {\u28CE}
+L {MUDFONT NWS} {N NW} {\u28C6}
+L {MUDFONT NWS} {     W} {\u28C9}
+L {MUDFONT NWS} {N    W} {\u28C1}
+L {MUDFONT NWS} {  NW W} {\u28C8}
+L {MUDFONT NWS} {N NW W} {\u28C0}
+L {MUDFONT NWS} {       SW} {\u288F}
+L {MUDFONT NWS} {N      SW} {\u2887}
+L {MUDFONT NWS} {  NW   SW} {\u288E}
+L {MUDFONT NWS} {N NW   SW} {\u2886}
+L {MUDFONT NWS} {     W SW} {\u2889}
+L {MUDFONT NWS} {N    W SW} {\u2881}
+L {MUDFONT NWS} {  NW W SW} {\u2888}
+L {MUDFONT NWS} {N NW W SW} {\u2880}
+L {MUDFONT NWS} {          S} {\u284F}
+L {MUDFONT NWS} {N         S} {\u2847}
+L {MUDFONT NWS} {  NW      S} {\u284E}
+L {MUDFONT NWS} {N NW      S} {\u2846}
+L {MUDFONT NWS} {     W    S} {\u2849}
+L {MUDFONT NWS} {N    W    S} {\u2841}
+L {MUDFONT NWS} {  NW W    S} {\u2848}
+L {MUDFONT NWS} {N NW W    S} {\u2880}
+L {MUDFONT NWS} {       SW S} {\u280F}
+L {MUDFONT NWS} {N      SW S} {\u2807}
+L {MUDFONT NWS} {  NW   SW S} {\u280E}
+L {MUDFONT NWS} {N NW   SW S} {\u2806}
+L {MUDFONT NWS} {     W SW S} {\u2809}
+L {MUDFONT NWS} {N    W SW S} {\u2801}
+L {MUDFONT NWS} {  NW W SW S} {\u2808}
+L {MUDFONT NWS} {N NW W SW S} {\u2800}
+L {MUDFONT NES} {NO EXITS} {\u28F9}
+L {MUDFONT NES} {N} {\u28F8}
+L {MUDFONT NES} {  NE} {\u28F1}
+L {MUDFONT NES} {N NE} {\u28F0}
+L {MUDFONT NES} {     W} {\u28C9}
+L {MUDFONT NES} {N    W} {\u28C8}
+L {MUDFONT NES} {  NE W} {\u28C2}
+L {MUDFONT NES} {N NE W} {\u28C0}
+L {MUDFONT NES} {       SE} {\u2879}
+L {MUDFONT NES} {N      SE} {\u2878}
+L {MUDFONT NES} {  NE   SE} {\u2871}
+L {MUDFONT NES} {N NE   SE} {\u2870}
+L {MUDFONT NES} {     W SE} {\u2849}
+L {MUDFONT NES} {N    W SE} {\u2848}
+L {MUDFONT NES} {  NE W SE} {\u2842}
+L {MUDFONT NES} {N NE W SE} {\u2840}
+L {MUDFONT NES} {          S} {\u28B9}
+L {MUDFONT NES} {N         S} {\u28B8}
+L {MUDFONT NES} {  NE      S} {\u28B1}
+L {MUDFONT NES} {N NE      S} {\u28B0}
+L {MUDFONT NES} {     W    S} {\u2889}
+L {MUDFONT NES} {N    W    S} {\u2888}
+L {MUDFONT NES} {  NE W    S} {\u2882}
+L {MUDFONT NES} {N NE W    S} {\u2880}
+L {MUDFONT NES} {       SE S} {\u2839}
+L {MUDFONT NES} {N      SE S} {\u2838}
+L {MUDFONT NES} {  NE   SE S} {\u2831}
+L {MUDFONT NES} {N NE   SE S} {\u2830}
+L {MUDFONT NES} {     W SE S} {\u2809}
+L {MUDFONT NES} {N    W SE S} {\u2808}
+L {MUDFONT NES} {  NE W SE S} {\u2802}
+L {MUDFONT NES} {N NE W SE S} {\u2800}
+L {MUDFONT VOID NWS} {NO EXITS} {\u2830}
+L {MUDFONT VOID NWS} {N} {\u2838}
+L {MUDFONT VOID NWS} {  NW} {\u2831}
+L {MUDFONT VOID NWS} {N NW} {\u2839}
+L {MUDFONT VOID NWS} {     W} {\u2836}
+L {MUDFONT VOID NWS} {N    W} {\u283E}
+L {MUDFONT VOID NWS} {  NW W} {\u2837}
+L {MUDFONT VOID NWS} {N NW W} {\u283F}
+L {MUDFONT VOID NWS} {       SW} {\u2870}
+L {MUDFONT VOID NWS} {N      SW} {\u2878}
+L {MUDFONT VOID NWS} {  NW   SW} {\u2871}
+L {MUDFONT VOID NWS} {N NW   SW} {\u2879}
+L {MUDFONT VOID NWS} {     W SW} {\u2876}
+L {MUDFONT VOID NWS} {N    W SW} {\u287E}
+L {MUDFONT VOID NWS} {  NW W SW} {\u2877}
+L {MUDFONT VOID NWS} {N NW W SW} {\u287F}
+L {MUDFONT VOID NWS} {          S} {\u28B0}
+L {MUDFONT VOID NWS} {N         S} {\u28B8}
+L {MUDFONT VOID NWS} {  NW      S} {\u28B1}
+L {MUDFONT VOID NWS} {N NW      S} {\u28B9}
+L {MUDFONT VOID NWS} {     W    S} {\u28B6}
+L {MUDFONT VOID NWS} {N    W    S} {\u28BE}
+L {MUDFONT VOID NWS} {  NW W    S} {\u28B7}
+L {MUDFONT VOID NWS} {N NW W    S} {\u28BF}
+L {MUDFONT VOID NWS} {       SW S} {\u28F0}
+L {MUDFONT VOID NWS} {N      SW S} {\u28F8}
+L {MUDFONT VOID NWS} {  NW   SW S} {\u28F1}
+L {MUDFONT VOID NWS} {N NW   SW S} {\u28F9}
+L {MUDFONT VOID NWS} {     W SW S} {\u28F6}
+L {MUDFONT VOID NWS} {N    W SW S} {\u28FE}
+L {MUDFONT VOID NWS} {  NW W SW S} {\u28F7}
+L {MUDFONT VOID NWS} {N NW W SW S} {\u28FF}
+L {MUDFONT VOID NES} {NO EXITS} {\u2806}
+L {MUDFONT VOID NES} {N} {\u2807}
+L {MUDFONT VOID NES} {  NE} {\u280E}
+L {MUDFONT VOID NES} {N NE} {\u280F}
+L {MUDFONT VOID NES} {     W} {\u2836}
+L {MUDFONT VOID NES} {N    W} {\u2837}
+L {MUDFONT VOID NES} {  NE W} {\u283E}
+L {MUDFONT VOID NES} {N NE W} {\u283F}
+L {MUDFONT VOID NES} {       SE} {\u2886}
+L {MUDFONT VOID NES} {N      SE} {\u2887}
+L {MUDFONT VOID NES} {  NE   SE} {\u288E}
+L {MUDFONT VOID NES} {N NE   SE} {\u288F}
+L {MUDFONT VOID NES} {     W SE} {\u28B6}
+L {MUDFONT VOID NES} {N    W SE} {\u28B7}
+L {MUDFONT VOID NES} {  NE W SE} {\u28BE}
+L {MUDFONT VOID NES} {N NE W SE} {\u28BF}
+L {MUDFONT VOID NES} {          S} {\u2846}
+L {MUDFONT VOID NES} {N         S} {\u2847}
+L {MUDFONT VOID NES} {  NE      S} {\u284E}
+L {MUDFONT VOID NES} {N NE      S} {\u284F}
+L {MUDFONT VOID NES} {     W    S} {\u2876}
+L {MUDFONT VOID NES} {N    W    S} {\u2877}
+L {MUDFONT VOID NES} {  NE W    S} {\u287E}
+L {MUDFONT VOID NES} {N NE W    S} {\u287F}
+L {MUDFONT VOID NES} {       SE S} {\u28C6}
+L {MUDFONT VOID NES} {N      SE S} {\u28C7}
+L {MUDFONT VOID NES} {  NE   SE S} {\u28CE}
+L {MUDFONT VOID NES} {N NE   SE S} {\u28CF}
+L {MUDFONT VOID NES} {     W SE S} {\u28F6}
+L {MUDFONT VOID NES} {N    W SE S} {\u28F7}
+L {MUDFONT VOID NES} {  NE W SE S} {\u28FE}
+L {MUDFONT VOID NES} {N NE W SE S} {\u28FF}
+L {MUDFONT CURVED} {N E} {\u2818}
+L {MUDFONT CURVED} {S E} {\u28A0}
+L {MUDFONT CURVED} {S W} {\u2844}
+L {MUDFONT CURVED} {N W} {\u2803}
+L {UNICODE GRAPHICS} {NO DIAGONAL} { }
+L {UNICODE GRAPHICS} {SE} {\u2E0C}
+L {UNICODE GRAPHICS} {NE} {\u2E1D}
+L {UNICODE GRAPHICS} {SE NE} {>}
+L {UNICODE GRAPHICS} {SW} {\u2E0D}
+L {UNICODE GRAPHICS} {SE SW} {\u2E0C\u2E0D}
+L {UNICODE GRAPHICS} {NE SW} {\uFF0F}
+L {UNICODE GRAPHICS} {SE NE SW} {>\u2E0D}
+L {UNICODE GRAPHICS} {NW} {\u2E1C}
+L {UNICODE GRAPHICS} {SE NW} {\uFF3C}
+L {UNICODE GRAPHICS} {NE NW} {\u2E1D\u2E1C}
+L {UNICODE GRAPHICS} {SE NE NW} {>\u2E1C}
+L {UNICODE GRAPHICS} {SW NW} {<}
+L {UNICODE GRAPHICS} {SE SW NW} {\u2E0C<}
+L {UNICODE GRAPHICS} {NE SW NW} {\u2E1D<}
+L {UNICODE GRAPHICS} {SE NE SW NW} {><}
+L {UNICODE GRAPHICS} {D} {-}
+L {UNICODE GRAPHICS} {N} {\u2191}
+L {UNICODE GRAPHICS} {S} {\u2193}
+L {UNICODE GRAPHICS} {N S} {\u2502}
+L {UNICODE GRAPHICS} {U} {+}
+L {UNICODE GRAPHICS} {E} {\U01F806}
+L {UNICODE GRAPHICS} {W} {\U01F804}
+L {UNICODE GRAPHICS} {E W} {\u2500}
+L {UNICODE GRAPHICS} {ROOM L} {[}
+L {UNICODE GRAPHICS} {ROOM L CURVED} {(}
+L {UNICODE GRAPHICS} {ROOM R} {]}
+L {UNICODE GRAPHICS} {ROOM R CURVED} {)}
+
+
+
+
+T {} { } {}
+T {beach} {<cca>.} {DENSE}
+T {cave} {<g03>@} {DENSE NARROW}
+T {city} {<g11>.} {DENSE NARROW}
+T {field} {<aba>.} {VAST}
+T {forest} {<aba>t} {VAST}
+T {hills} {<aba>^.} {VAST DOUBLE}
+T {mountain} {<bba>A} {}
+T {road_crossroads} {<g11>.} {DENSE NARROW}
+T {road_eastwest} {<g11>.} {DENSE NARROW}
+T {shop} {<dda>*} {DENSE NARROW}
+T {shore} {<cca>~} {DENSE}
+T {trail_ew} {<cba>@} {NARROW}
+T {waterswim} {<aad>~} {VAST}
+
+
+
+R {    1} {0} {} {Before the main keep of Rosewood Castle} { } {} {rosewood} {} {city} {} {1.000} {}
+E {    2} {n} {n} {1} {0} {} {1.000} {}
+
+R {    2} {0} {} {Before the main keep of Rosewood Castle} { } {} {rosewood} {} {city} {} {1.000} {}
+E {    1} {s} {s} {4} {0} {} {1.000} {}
+
+R {    3} {0} {} {In the Outer Halls of Rosewood Castle} { } {} {rosewood} {} {city} {} {1.000} {}
+E { 6915} {w} {w} {8} {0} {} {1.000} {}
+
+R {    4} {0} {<238>} {Overlooking the Forbidden Waters} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25197} {w} {w} {8} {0} {} {1.000} {}
+
+R {    5} {0} {<238>} {Overlooking the Forbidden Waters} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25168} {n} {n} {1} {0} {} {1.000} {}
+
+R {    6} {0} {<238>} {Overlooking the Unforgiving Waters} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25347} {s} {s} {4} {0} {} {1.000} {}
+E {    7} {e} {e} {2} {0} {} {1.000} {}
+
+R {    7} {0} {<238>} {Overlooking the Unforgiving Waters} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {    6} {w} {w} {8} {0} {} {1.000} {}
+
+R {    8} {0} {<238>} {Cliff's Edge} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25347} {w} {w} {8} {0} {} {1.000} {}
+
+R {    9} {0} {<238>} {Rocky Shores of Abend} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25351} {e} {e} {2} {0} {} {1.000} {}
+
+R {   10} {0} {<228>} {Warrior's Battlefield} {<228>, `<088>} {} {deathtrap} {} {field} {} {1.000} {}
+E {32501} {u} {u} {16} {0} {} {1.000} {}
+
+R {   11} {0} {<228>} {Warrior's Battlefield} {<228>, `<088>} {} {deathtrap} {} {field} {} {1.000} {}
+E {32501} {d} {d} {32} {0} {} {1.000} {}
+E {   12} {n} {n} {1} {0} {} {1.000} {}
+
+R {   12} {0} {<228>} {Warrior's Battlefield} {<228>, `<088>} {} {deathtrap} {} {field} {} {1.000} {}
+E {   11} {s} {s} {4} {0} {} {1.000} {}
+E {   13} {e} {e} {2} {0} {} {1.000} {}
+
+R {   13} {0} {<228>} {Warrior's Battlefield} {<228>, `<088>} {} {deathtrap} {} {field} {} {1.000} {}
+E {   12} {w} {w} {8} {0} {} {1.000} {}
+E {   14} {n} {n} {1} {0} {} {1.000} {}
+
+R {   14} {0} {<228>} {Warrior's Battlefield} {<228>, `<088>} {} {deathtrap} {} {field} {} {1.000} {}
+E {   13} {s} {s} {4} {0} {} {1.000} {}
+E {   15} {n} {n} {1} {0} {} {1.000} {}
+
+R {   15} {0} {<228>} {Warrior's Battlefield} {<228>, `<088>} {} {deathtrap} {} {field} {} {1.000} {}
+E {   14} {s} {s} {4} {0} {} {1.000} {}
+E {   16} {e} {e} {2} {0} {} {1.000} {}
+E {   17} {u} {u} {16} {0} {} {1.000} {}
+
+R {   16} {0} {<228>} {Warrior's Battlefield} {<228>, `<088>} {} {deathtrap} {} {field} {} {1.000} {}
+E {   15} {w} {w} {8} {0} {} {1.000} {}
+
+R {   17} {0} {<228>} {Warrior's Battlefield} {<228>, `<088>} {} {deathtrap} {} {field} {} {1.000} {}
+E {   15} {d} {d} {32} {0} {} {1.000} {}
+E {   18} {w} {w} {8} {0} {} {1.000} {}
+
+R {   18} {0} {<228>} {Warrior's Battlefield} {<228>, `<088>} {} {deathtrap} {} {field} {} {1.000} {}
+E {   17} {e} {e} {2} {0} {} {1.000} {}
+E {   19} {u} {u} {16} {0} {} {1.000} {}
+
+R {   19} {0} {<228>} {Warrior's Battlefield} {<228>, `<088>} {} {deathtrap} {} {field} {} {1.000} {}
+E {   18} {d} {d} {32} {0} {} {1.000} {}
+
+R {  641} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R { 1865} {0} {<238>} {Lion's Track} {<238>A A<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+E {25303} {w} {w} {8} {0} {} {1.000} {}
+E {25305} {e} {e} {2} {0} {} {1.000} {}
+
+R { 2291} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R { 2339} {0} {<278>} {The Grand City of Aylor - Southern Entrance} {<278>. .<088>} {} {aylor} {} {city} {} {1.000} {}
+E { 2341} {e} {e} {2} {0} {} {1.000} {}
+E { 2343} {n} {n} {1} {0} {} {1.000} {}
+E { 2344} {s} {s} {4} {0} {} {1.000} {}
+E {32538} {u} {u} {16} {0} {} {1.000} {}
+E { 2340} {w} {w} {8} {0} {} {1.000} {}
+
+R { 2340} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R { 2341} {0} {<278>} {[1\;32mA Light Provisions Room[0\;37m} {<278>[ ]<088>} {} {light} {} {inside} {} {1.000} {}
+E { 2342} {n} {n} {1} {0} {} {1.000} {}
+E { 2339} {w} {w} {8} {0} {} {1.000} {}
+
+R { 2342} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R { 2343} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R { 2344} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R { 4334} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R { 6900} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R { 6901} {0} {<fca>} {In the Outer Halls of Rosewood Castle} { } {} {rosewood} {} {city} {} {1.000} {}
+E { 6902} {e} {e} {2} {0} {} {1.000} {}
+E { 6904} {n} {n} {1} {0} {} {1.000} {}
+E { 6900} {s} {s} {4} {0} {} {1.000} {}
+E { 6903} {w} {w} {8} {0} {} {1.000} {}
+
+R { 6902} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R { 6903} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R { 6904} {0} {<fca>} {An intersection} { } {} {rosewood} {} {city} {} {1.000} {}
+E { 6905} {n} {n} {1} {0} {} {1.000} {}
+E { 6901} {s} {s} {4} {0} {} {1.000} {}
+
+R { 6905} {0} {<fca>} {Before the main keep of Rosewood Castle} { } {} {rosewood} {} {city} {} {1.000} {}
+E { 6907} {e} {e} {2} {0} {} {1.000} {}
+E { 6918} {n} {n} {1} {0} {} {1.000} {}
+E { 6904} {s} {s} {4} {0} {} {1.000} {}
+E { 6906} {w} {w} {8} {0} {} {1.000} {}
+
+R { 6906} {0} {<fca>} {An intersection} { } {} {rosewood} {} {city} {} {1.000} {}
+E { 6905} {e} {e} {2} {0} {} {1.000} {}
+E { 6908} {n} {n} {1} {0} {} {1.000} {}
+E { 6909} {s} {s} {4} {0} {} {1.000} {}
+E { 6910} {w} {w} {8} {0} {} {1.000} {}
+
+R { 6907} {0} {<fca>} {An intersection} { } {} {rosewood} {} {city} {} {1.000} {}
+E { 6915} {e} {e} {2} {0} {} {1.000} {}
+E { 6913} {n} {n} {1} {0} {} {1.000} {}
+E { 6914} {s} {s} {4} {0} {} {1.000} {}
+E { 6905} {w} {w} {8} {0} {} {1.000} {}
+
+R { 6908} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R { 6909} {0} {<fca>} {In the Outer Halls of Rosewood Castle} { } {} {rosewood} {} {city} {} {1.000} {}
+E { 6906} {n} {n} {1} {0} {} {1.000} {}
+
+R { 6910} {0} {<fca>} {In the Outer Halls of Rosewood Castle} { } {} {rosewood} {} {city} {} {1.000} {}
+E { 6906} {e} {e} {2} {0} {} {1.000} {}
+E { 6911} {n} {n} {1} {0} {} {1.000} {}
+E { 6912} {s} {s} {4} {0} {} {1.000} {}
+
+R { 6911} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R { 6912} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R { 6913} {0} {<fca>} {In the Outer Halls of Rosewood Castle} { } {} {rosewood} {} {city} {} {1.000} {}
+E { 6907} {s} {s} {4} {0} {} {1.000} {}
+
+R { 6914} {0} {<fca>} {In the Outer Halls of Rosewood Castle} { } {} {rosewood} {} {city} {} {1.000} {}
+E { 6907} {n} {n} {1} {0} {} {1.000} {}
+
+R { 6915} {0} {<fca>} {In the Outer Halls of Rosewood Castle} { } {} {rosewood} {} {city} {} {1.000} {}
+E { 6916} {n} {n} {1} {0} {} {1.000} {}
+E { 6917} {s} {s} {4} {0} {} {1.000} {}
+E { 6907} {w} {w} {8} {0} {} {1.000} {}
+E {    3} {e} {e} {2} {0} {} {1.000} {}
+
+R { 6916} {0} {<fca>} {In the Outer Halls of Rosewood Castle} { } {} {rosewood} {} {city} {} {1.000} {}
+E { 6915} {s} {s} {4} {0} {} {1.000} {}
+
+R { 6917} {0} {<fca>} {In the Outer Halls of Rosewood Castle} { } {} {rosewood} {} {city} {} {1.000} {}
+E { 6915} {n} {n} {1} {0} {} {1.000} {}
+
+R { 6918} {0} {<fca>} {Before the main keep of Rosewood Castle} { } {} {rosewood} {} {city} {} {1.000} {}
+E { 6919} {n} {n} {1} {0} {} {1.000} {}
+E { 6905} {s} {s} {4} {0} {} {1.000} {}
+
+R { 6919} {0} {<fca>} {Inside the main courtyard} { } {} {rosewood} {} {field} {} {1.000} {}
+E { 6921} {e} {e} {2} {0} {} {1.000} {}
+E { 6922} {n} {n} {1} {0} {} {1.000} {}
+E { 6918} {s} {s} {4} {0} {} {1.000} {}
+E { 6920} {w} {w} {8} {0} {} {1.000} {}
+
+R { 6920} {0} {<fca>} {Before the main keep of Rosewood Castle} { } {} {rosewood} {} {city} {} {1.000} {}
+E { 6919} {e} {e} {2} {0} {} {1.000} {}
+
+R { 6921} {0} {<fca>} {Before the main keep of Rosewood Castle} { } {} {rosewood} {} {city} {} {1.000} {}
+E { 6919} {w} {w} {8} {0} {} {1.000} {}
+
+R { 6922} {0} {} {Inside the main courtyard} { } {} {rosewood} {} {field} {} {1.000} {}
+E { 6924} {e} {e} {2} {0} {} {1.000} {}
+E { 6925} {n} {n} {1} {0} {} {1.000} {}
+E { 6919} {s} {s} {4} {0} {} {1.000} {}
+E { 6923} {w} {w} {8} {0} {} {1.000} {}
+
+R { 6923} {0} {<fca>} {Inside the main courtyard} { } {} {rosewood} {} {field} {} {1.000} {}
+E { 6922} {e} {e} {2} {0} {} {1.000} {}
+E { 6926} {n} {n} {1} {0} {} {1.000} {}
+
+R { 6924} {0} {<fca>} {Inside the main courtyard} { } {} {rosewood} {} {field} {} {1.000} {}
+E { 6936} {n} {n} {1} {0} {} {1.000} {}
+E { 6922} {w} {w} {8} {0} {} {1.000} {}
+
+R { 6925} {0} {<fca>} {Inside the main courtyard} { } {} {rosewood} {} {field} {} {1.000} {}
+E { 6936} {e} {e} {2} {0} {} {1.000} {}
+E { 6941} {n} {n} {1} {0} {} {1.000} {}
+E { 6922} {s} {s} {4} {0} {} {1.000} {}
+E { 6926} {w} {w} {8} {0} {} {1.000} {}
+
+R { 6926} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R { 6928} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R { 6936} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R { 6941} {0} {<fca>} {Center of the main courtyard} { } {} {rosewood} {} {field} {} {1.000} {}
+E { 6942} {e} {e} {2} {0} {} {1.000} {}
+E { 6944} {n} {n} {1} {0} {} {1.000} {}
+E { 6925} {s} {s} {4} {0} {} {1.000} {}
+E { 6928} {w} {w} {8} {0} {} {1.000} {}
+
+R { 6942} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R { 6944} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {12725} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {14165} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {14220} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {15305} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+
+R {15704} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {15706} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {15857} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25361} {e} {e} {2} {0} {} {1.000} {}
+E {25330} {n} {n} {1} {0} {} {1.000} {}
+E {25390} {s} {s} {4} {0} {} {1.000} {}
+E {15866} {u} {u} {16} {0} {} {1.000} {}
+E {25359} {w} {w} {8} {0} {} {1.000} {}
+
+R {15866} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {16803} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {19968} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {20026} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {24855} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {24856} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {24857} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {24858} {0} {<248>} {Xanachu's Tunnel System} {<248>% %<088>} {} {abend} {} {underground} {} {1.000} {}
+
+R {24884} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {24885} {0} {<238>} {A Dark Path} {<238>A A<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+E {24886} {e} {e} {2} {0} {} {1.000} {}
+E {24855} {n} {n} {1} {0} {} {1.000} {}
+E {24915} {s} {s} {4} {0} {} {1.000} {}
+E {24884} {w} {w} {8} {0} {} {1.000} {}
+
+R {24886} {0} {<238>} {A bend in the path} {<238>A A<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+E {24887} {e} {e} {2} {0} {} {1.000} {}
+E {24856} {n} {n} {1} {0} {} {1.000} {}
+E {24916} {s} {s} {4} {0} {} {1.000} {}
+E {24885} {w} {w} {8} {0} {} {1.000} {}
+
+R {24887} {0} {<238>} {The Desolate Pridelands} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {24888} {e} {e} {2} {0} {} {1.000} {}
+E {24857} {n} {n} {1} {0} {} {1.000} {}
+E {29160} {s} {s} {4} {0} {} {1.000} {}
+E {24886} {w} {w} {8} {0} {} {1.000} {}
+
+R {24888} {0} {<248>} {Sphayter's Cave} {<248>% %<088>} {} {abend} {} {cave} {} {1.000} {}
+E {24889} {e} {e} {2} {0} {} {1.000} {}
+E {24858} {n} {n} {1} {0} {} {1.000} {}
+E {24918} {s} {s} {4} {0} {} {1.000} {}
+E {24887} {w} {w} {8} {0} {} {1.000} {}
+
+R {24889} {0} {<248>} {Xanachu's Tunnel System} {<248>% %<088>} {} {abend} {} {underground} {} {1.000} {}
+
+R {24914} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {24915} {0} {<238>} {A Dark Trail} {<238>A A<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+E {24916} {e} {e} {2} {0} {} {1.000} {}
+E {24885} {n} {n} {1} {0} {} {1.000} {}
+E {24945} {s} {s} {4} {0} {} {1.000} {}
+E {24914} {w} {w} {8} {0} {} {1.000} {}
+
+R {24916} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {24918} {0} {<248>} {Xanachu's Tunnel System} {<248>% %<088>} {} {abend} {} {underground} {} {1.000} {}
+E {24919} {e} {e} {2} {0} {} {1.000} {}
+E {24888} {n} {n} {1} {0} {} {1.000} {}
+E {24948} {s} {s} {4} {0} {} {1.000} {}
+E {29160} {w} {w} {8} {0} {} {1.000} {}
+
+R {24919} {0} {<248>} {Xanachu's Tunnel System} {<248>% %<088>} {} {abend} {} {underground} {} {1.000} {}
+
+R {24943} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {24944} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {24945} {0} {<238>} {A Dark Path} {<238>A A<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+E {24946} {e} {e} {2} {0} {} {1.000} {}
+E {24915} {n} {n} {1} {0} {} {1.000} {}
+E {24975} {s} {s} {4} {0} {} {1.000} {}
+E {24944} {w} {w} {8} {0} {} {1.000} {}
+
+R {24946} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {24947} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {24948} {0} {<248>} {Xanachu's Tunnel System} {<248>% %<088>} {} {abend} {} {underground} {} {1.000} {}
+E {24949} {e} {e} {2} {0} {} {1.000} {}
+E {24918} {n} {n} {1} {0} {} {1.000} {}
+E {24978} {s} {s} {4} {0} {} {1.000} {}
+E {24947} {w} {w} {8} {0} {} {1.000} {}
+
+R {24949} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {24973} {0} {<238>} {Majesty Crest} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {24974} {e} {e} {2} {0} {} {1.000} {}
+E {24943} {n} {n} {1} {0} {} {1.000} {}
+E {25003} {s} {s} {4} {0} {} {1.000} {}
+
+R {24974} {0} {<238>} {A Dark Path} {<238>A A<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+E {24975} {e} {e} {2} {0} {} {1.000} {}
+E {24944} {n} {n} {1} {0} {} {1.000} {}
+E {25004} {s} {s} {4} {0} {} {1.000} {}
+E {24973} {w} {w} {8} {0} {} {1.000} {}
+
+R {24975} {0} {<238>} {Path to the Forbidden Waters} {<238>A A<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+E {24976} {e} {e} {2} {0} {} {1.000} {}
+E {24945} {n} {n} {1} {0} {} {1.000} {}
+E {25005} {s} {s} {4} {0} {} {1.000} {}
+E {24974} {w} {w} {8} {0} {} {1.000} {}
+
+R {24976} {0} {<238>} {The Crooked Hills} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {24977} {e} {e} {2} {0} {} {1.000} {}
+E {24946} {n} {n} {1} {0} {} {1.000} {}
+E {25006} {s} {s} {4} {0} {} {1.000} {}
+E {24975} {w} {w} {8} {0} {} {1.000} {}
+
+R {24977} {0} {<238>} {The Crooked Hills} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {24978} {e} {e} {2} {0} {} {1.000} {}
+E {24947} {n} {n} {1} {0} {} {1.000} {}
+E {25007} {s} {s} {4} {0} {} {1.000} {}
+E {24976} {w} {w} {8} {0} {} {1.000} {}
+
+R {24978} {0} {<248>} {Black Cave} {<248>% %<088>} {} {abend} {} {cave} {} {1.000} {}
+E {24979} {e} {e} {2} {0} {} {1.000} {}
+E {24948} {n} {n} {1} {0} {} {1.000} {}
+E {25008} {s} {s} {4} {0} {} {1.000} {}
+E {24977} {w} {w} {8} {0} {} {1.000} {}
+
+R {24979} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25003} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25004} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25005} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25006} {e} {e} {2} {0} {} {1.000} {}
+E {24975} {n} {n} {1} {0} {} {1.000} {}
+E {25035} {s} {s} {4} {0} {} {1.000} {}
+E {25004} {w} {w} {8} {0} {} {1.000} {}
+
+R {25006} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25007} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25008} {0} {<238>} {The Crooked Hills} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+
+R {25034} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25035} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25036} {e} {e} {2} {0} {} {1.000} {}
+E {25005} {n} {n} {1} {0} {} {1.000} {}
+E {25065} {s} {s} {4} {0} {} {1.000} {}
+E {25034} {w} {w} {8} {0} {} {1.000} {}
+
+R {25036} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25064} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25065} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25066} {e} {e} {2} {0} {} {1.000} {}
+E {25035} {n} {n} {1} {0} {} {1.000} {}
+E {25095} {s} {s} {4} {0} {} {1.000} {}
+E {25064} {w} {w} {8} {0} {} {1.000} {}
+
+R {25066} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25094} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25095} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25096} {e} {e} {2} {0} {} {1.000} {}
+E {25065} {n} {n} {1} {0} {} {1.000} {}
+E {25125} {s} {s} {4} {0} {} {1.000} {}
+E {25094} {w} {w} {8} {0} {} {1.000} {}
+
+R {25096} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25118} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25119} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25120} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25124} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25125} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {15305} {e} {e} {2} {0} {} {1.000} {}
+E {25095} {n} {n} {1} {0} {} {1.000} {}
+E {25155} {s} {s} {4} {0} {} {1.000} {}
+E {25124} {w} {w} {8} {0} {} {1.000} {}
+
+R {25143} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25144} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25145} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25146} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25147} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25148} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25149} {e} {e} {2} {0} {} {1.000} {}
+E {25118} {n} {n} {1} {0} {} {1.000} {}
+E {25178} {s} {s} {4} {0} {} {1.000} {}
+E {25147} {w} {w} {8} {0} {} {1.000} {}
+
+R {25149} {0} {<238>} {Trail's Bend} {<238>A A<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+E {25150} {e} {e} {2} {0} {} {1.000} {}
+E {25119} {n} {n} {1} {0} {} {1.000} {}
+E {25179} {s} {s} {4} {0} {} {1.000} {}
+E {25148} {w} {w} {8} {0} {} {1.000} {}
+
+R {25150} {0} {<238>} {Lion's Track} {<238>A A<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+E {25151} {e} {e} {2} {0} {} {1.000} {}
+E {25120} {n} {n} {1} {0} {} {1.000} {}
+E {25180} {s} {s} {4} {0} {} {1.000} {}
+E {25149} {w} {w} {8} {0} {} {1.000} {}
+
+R {25151} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25154} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25155} {e} {e} {2} {0} {} {1.000} {}
+E {25124} {n} {n} {1} {0} {} {1.000} {}
+E {25184} {s} {s} {4} {0} {} {1.000} {}
+E {15706} {w} {w} {8} {0} {} {1.000} {}
+
+R {25155} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25156} {e} {e} {2} {0} {} {1.000} {}
+E {25125} {n} {n} {1} {0} {} {1.000} {}
+E {25185} {s} {s} {4} {0} {} {1.000} {}
+E {25154} {w} {w} {8} {0} {} {1.000} {}
+
+R {25156} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+
+R {25168} {0} {<238>} {Overlooking the Forbidden Waters} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {    5} {s} {s} {4} {0} {} {1.000} {}
+
+R {25169} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25170} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25171} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25172} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25173} {0} {<238>} {Pride's Pass} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25174} {e} {e} {2} {0} {} {1.000} {}
+E {25143} {n} {n} {1} {0} {} {1.000} {}
+E {25203} {s} {s} {4} {0} {} {1.000} {}
+E {25172} {w} {w} {8} {0} {} {1.000} {}
+
+R {25174} {0} {<238>} {Pride's Pass} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25175} {e} {e} {2} {0} {} {1.000} {}
+E {25144} {n} {n} {1} {0} {} {1.000} {}
+E {25173} {w} {w} {8} {0} {} {1.000} {}
+
+R {25175} {0} {<238>} {A Moss Covered Trail} {<238>. .<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+E {25176} {e} {e} {2} {0} {} {1.000} {}
+E {25145} {n} {n} {1} {0} {} {1.000} {}
+E {25205} {s} {s} {4} {0} {} {1.000} {}
+E {25174} {w} {w} {8} {0} {} {1.000} {}
+
+R {25176} {0} {<238>} {A Moss Covered Trail} {<238>. .<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+E {25177} {e} {e} {2} {0} {} {1.000} {}
+E {25146} {n} {n} {1} {0} {} {1.000} {}
+E {25206} {s} {s} {4} {0} {} {1.000} {}
+E {25175} {w} {w} {8} {0} {} {1.000} {}
+
+R {25177} {0} {<238>} {A Moss Covered Trail} {<238>A A<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+E {25178} {e} {e} {2} {0} {} {1.000} {}
+E {25147} {n} {n} {1} {0} {} {1.000} {}
+E {25207} {s} {s} {4} {0} {} {1.000} {}
+E {25176} {w} {w} {8} {0} {} {1.000} {}
+
+R {25178} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25179} {e} {e} {2} {0} {} {1.000} {}
+E {25148} {n} {n} {1} {0} {} {1.000} {}
+E {25208} {s} {s} {4} {0} {} {1.000} {}
+E {25177} {w} {w} {8} {0} {} {1.000} {}
+
+R {25179} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25180} {e} {e} {2} {0} {} {1.000} {}
+E {25149} {n} {n} {1} {0} {} {1.000} {}
+E {25209} {s} {s} {4} {0} {} {1.000} {}
+E {25178} {w} {w} {8} {0} {} {1.000} {}
+
+R {25180} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25181} {e} {e} {2} {0} {} {1.000} {}
+E {25150} {n} {n} {1} {0} {} {1.000} {}
+E {25210} {s} {s} {4} {0} {} {1.000} {}
+E {25179} {w} {w} {8} {0} {} {1.000} {}
+
+R {25181} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25182} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25183} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25184} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25185} {e} {e} {2} {0} {} {1.000} {}
+E {25154} {n} {n} {1} {0} {} {1.000} {}
+E {25214} {s} {s} {4} {0} {} {1.000} {}
+E {25183} {w} {w} {8} {0} {} {1.000} {}
+
+R {25185} {0} {<238>} {Lion's Track} {<238>A A<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+E {25186} {e} {e} {2} {0} {} {1.000} {}
+E {25155} {n} {n} {1} {0} {} {1.000} {}
+E {25215} {s} {s} {4} {0} {} {1.000} {}
+E {25184} {w} {w} {8} {0} {} {1.000} {}
+
+R {25186} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+
+R {25197} {0} {<238>} {Overlooking the Forbidden Waters} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {    4} {e} {e} {2} {0} {} {1.000} {}
+
+R {25198} {0} {<238>} {Overlooking the Forbidden Waters} {/ \} {} {abend} {} {mountain} {} {1.000} {}
+E {25199} {e} {e} {2} {0} {} {1.000} {}
+E {25168} {n} {n} {1} {0} {} {1.000} {}
+E {25228} {s} {s} {4} {0} {} {1.000} {}
+E {25197} {w} {w} {8} {0} {} {1.000} {}
+
+R {25199} {0} {<238>} {Pride's Pass} {} {} {abend} {} {mountain} {} {1.000} {}
+E {25200} {e} {e} {2} {0} {} {1.000} {}
+E {25169} {n} {n} {1} {0} {} {1.000} {}
+E {25229} {s} {s} {4} {0} {} {1.000} {}
+E {25198} {w} {w} {8} {0} {} {1.000} {}
+
+R {25200} {0} {<238>} {Pride's Pass} {} {} {abend} {} {mountain} {} {1.000} {}
+E {25201} {e} {e} {2} {0} {} {1.000} {}
+E {25170} {n} {n} {1} {0} {} {1.000} {}
+E {25230} {s} {s} {4} {0} {} {1.000} {}
+E {25199} {w} {w} {8} {0} {} {1.000} {}
+
+R {25201} {0} {<238>} {Pride's Pass} {} {} {abend} {} {mountain} {} {1.000} {}
+E {25202} {e} {e} {2} {0} {} {1.000} {}
+E {25171} {n} {n} {1} {0} {} {1.000} {}
+E {25231} {s} {s} {4} {0} {} {1.000} {}
+E {25200} {w} {w} {8} {0} {} {1.000} {}
+
+R {25202} {0} {<238>} {Pride's Pass} {} {} {abend} {} {mountain} {} {1.000} {}
+E {25203} {e} {e} {2} {0} {} {1.000} {}
+E {25172} {n} {n} {1} {0} {} {1.000} {}
+E {25232} {s} {s} {4} {0} {} {1.000} {}
+E {25201} {w} {w} {8} {0} {} {1.000} {}
+
+R {25203} {0} {<278>} {Syrus Road} {<278>. .<088>} {} {kultiras} {} {city} {} {1.000} {}
+E {31161} {e} {e} {2} {0} {} {1.000} {}
+E {25173} {n} {n} {1} {0} {} {1.000} {}
+E {25233} {s} {s} {4} {0} {} {1.000} {}
+E {25202} {w} {w} {8} {0} {} {1.000} {}
+
+R {25205} {0} {<278>} {Syrus Road} {<278>. .<088>} {} {kultiras} {} {city} {} {1.000} {}
+E {25206} {e} {e} {2} {0} {} {1.000} {}
+E {25175} {n} {n} {1} {0} {} {1.000} {}
+E {25235} {s} {s} {4} {0} {} {1.000} {}
+E {31161} {w} {w} {8} {0} {} {1.000} {}
+
+R {25206} {0} {<238>} {A Moss Covered Trail} {<238>. .<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+E {25207} {e} {e} {2} {0} {} {1.000} {}
+E {25176} {n} {n} {1} {0} {} {1.000} {}
+E {25236} {s} {s} {4} {0} {} {1.000} {}
+E {25205} {w} {w} {8} {0} {} {1.000} {}
+
+R {25207} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25208} {e} {e} {2} {0} {} {1.000} {}
+E {25177} {n} {n} {1} {0} {} {1.000} {}
+E {25237} {s} {s} {4} {0} {} {1.000} {}
+E {25206} {w} {w} {8} {0} {} {1.000} {}
+
+R {25208} {0} {<238>} {A Moss Covered Trail} {<238>A A<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+E {25209} {e} {e} {2} {0} {} {1.000} {}
+E {25178} {n} {n} {1} {0} {} {1.000} {}
+E {25238} {s} {s} {4} {0} {} {1.000} {}
+E {25207} {w} {w} {8} {0} {} {1.000} {}
+
+R {25209} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25210} {e} {e} {2} {0} {} {1.000} {}
+E {25179} {n} {n} {1} {0} {} {1.000} {}
+E {25239} {s} {s} {4} {0} {} {1.000} {}
+E {25208} {w} {w} {8} {0} {} {1.000} {}
+
+R {25210} {0} {<268>} {At the base of Mount duNoir} {<268>A A<088>} {} {abend} {} {mountain_cyan} {} {1.000} {}
+E {25211} {e} {e} {2} {0} {} {1.000} {}
+E {25180} {n} {n} {1} {0} {} {1.000} {}
+E {25240} {s} {s} {4} {0} {} {1.000} {}
+E {25209} {w} {w} {8} {0} {} {1.000} {}
+
+R {25211} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25212} {e} {e} {2} {0} {} {1.000} {}
+E {25181} {n} {n} {1} {0} {} {1.000} {}
+E {25241} {s} {s} {4} {0} {} {1.000} {}
+E {25210} {w} {w} {8} {0} {} {1.000} {}
+
+R {25212} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25213} {e} {e} {2} {0} {} {1.000} {}
+E {25182} {n} {n} {1} {0} {} {1.000} {}
+E {25242} {s} {s} {4} {0} {} {1.000} {}
+E {25211} {w} {w} {8} {0} {} {1.000} {}
+
+R {25213} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25212} {w} {w} {8} {0} {} {1.000} {}
+E {25214} {e} {e} {2} {0} {} {1.000} {}
+E {25183} {n} {n} {1} {0} {} {1.000} {}
+E {25243} {s} {s} {4} {0} {} {1.000} {}
+
+R {25214} {0} {<238>} {Lion's Track} {<238>A A<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+E {25215} {e} {e} {2} {0} {} {1.000} {}
+E {25184} {n} {n} {1} {0} {} {1.000} {}
+E {25244} {s} {s} {4} {0} {} {1.000} {}
+E {25213} {w} {w} {8} {0} {} {1.000} {}
+
+R {25215} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+
+R {25216} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+
+R {25217} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+
+R {25218} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25221} {0} {<238>} {Rocky Shores} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+
+R {25227} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25228} {0} {<238>} {Overlooking the Forbidden Waters} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25229} {e} {e} {2} {0} {} {1.000} {}
+E {25198} {n} {n} {1} {0} {} {1.000} {}
+E {25258} {s} {s} {4} {0} {} {1.000} {}
+E {25227} {w} {w} {8} {0} {} {1.000} {}
+
+R {25229} {0} {<238>} {Overlooking the Forbidden Waters} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25230} {e} {e} {2} {0} {} {1.000} {}
+E {25199} {n} {n} {1} {0} {} {1.000} {}
+E {25259} {s} {s} {4} {0} {} {1.000} {}
+E {25228} {w} {w} {8} {0} {} {1.000} {}
+
+R {25230} {0} {<238>} {Pride's Pass} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25231} {e} {e} {2} {0} {} {1.000} {}
+E {25200} {n} {n} {1} {0} {} {1.000} {}
+E {25260} {s} {s} {4} {0} {} {1.000} {}
+E {25229} {w} {w} {8} {0} {} {1.000} {}
+
+R {25231} {0} {<238>} {Pride's Pass} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25232} {e} {e} {2} {0} {} {1.000} {}
+E {25201} {n} {n} {1} {0} {} {1.000} {}
+E {25261} {s} {s} {4} {0} {} {1.000} {}
+E {25230} {w} {w} {8} {0} {} {1.000} {}
+
+R {25232} {0} {<238>} {Pride's Pass} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25233} {e} {e} {2} {0} {} {1.000} {}
+E {25202} {n} {n} {1} {0} {} {1.000} {}
+E {25262} {s} {s} {4} {0} {} {1.000} {}
+E {25231} {w} {w} {8} {0} {} {1.000} {}
+
+R {25233} {0} {<238>} {Pride's Pass} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25234} {e} {e} {2} {0} {} {1.000} {}
+E {25203} {n} {n} {1} {0} {} {1.000} {}
+E {25263} {s} {s} {4} {0} {} {1.000} {}
+E {25232} {w} {w} {8} {0} {} {1.000} {}
+
+R {25234} {0} {<238>} {Cliffs Above the Trail} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25235} {e} {e} {2} {0} {} {1.000} {}
+E {25264} {s} {s} {4} {0} {} {1.000} {}
+E {25233} {w} {w} {8} {0} {} {1.000} {}
+
+R {25235} {0} {<238>} {Cliffs Above the Trail} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25236} {e} {e} {2} {0} {} {1.000} {}
+E {25205} {n} {n} {1} {0} {} {1.000} {}
+E {25265} {s} {s} {4} {0} {} {1.000} {}
+E {25234} {w} {w} {8} {0} {} {1.000} {}
+
+R {25236} {0} {<238>} {A Moss Covered Trail} {<238>A A<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+E {25237} {e} {e} {2} {0} {} {1.000} {}
+E {25206} {n} {n} {1} {0} {} {1.000} {}
+E {25266} {s} {s} {4} {0} {} {1.000} {}
+E {25235} {w} {w} {8} {0} {} {1.000} {}
+
+R {25237} {0} {<238>} {Cliffs Above the Trail} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25238} {e} {e} {2} {0} {} {1.000} {}
+E {25207} {n} {n} {1} {0} {} {1.000} {}
+E {25267} {s} {s} {4} {0} {} {1.000} {}
+E {25236} {w} {w} {8} {0} {} {1.000} {}
+
+R {25238} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25239} {e} {e} {2} {0} {} {1.000} {}
+E {25208} {n} {n} {1} {0} {} {1.000} {}
+E {25268} {s} {s} {4} {0} {} {1.000} {}
+E {25237} {w} {w} {8} {0} {} {1.000} {}
+
+R {25239} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25240} {e} {e} {2} {0} {} {1.000} {}
+E {25209} {n} {n} {1} {0} {} {1.000} {}
+E {25269} {s} {s} {4} {0} {} {1.000} {}
+E {25238} {w} {w} {8} {0} {} {1.000} {}
+
+R {25240} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25241} {e} {e} {2} {0} {} {1.000} {}
+E {25210} {n} {n} {1} {0} {} {1.000} {}
+E {25270} {s} {s} {4} {0} {} {1.000} {}
+E {14220} {u} {u} {16} {0} {} {1.000} {}
+E {25239} {w} {w} {8} {0} {} {1.000} {}
+
+R {25241} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25242} {e} {e} {2} {0} {} {1.000} {}
+E {25211} {n} {n} {1} {0} {} {1.000} {}
+E {25271} {s} {s} {4} {0} {} {1.000} {}
+E {25240} {w} {w} {8} {0} {} {1.000} {}
+
+R {25242} {0} {<238>} {Lion's Track} {<238>A A<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+E {25243} {e} {e} {2} {0} {} {1.000} {}
+E {25212} {n} {n} {1} {0} {} {1.000} {}
+E {25272} {s} {s} {4} {0} {} {1.000} {}
+E {25241} {w} {w} {8} {0} {} {1.000} {}
+
+R {25243} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25244} {e} {e} {2} {0} {} {1.000} {}
+E {25213} {n} {n} {1} {0} {} {1.000} {}
+E {25273} {s} {s} {4} {0} {} {1.000} {}
+E {25242} {w} {w} {8} {0} {} {1.000} {}
+
+R {25244} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25245} {e} {e} {2} {0} {} {1.000} {}
+E {25214} {n} {n} {1} {0} {} {1.000} {}
+E {25274} {s} {s} {4} {0} {} {1.000} {}
+E {25243} {w} {w} {8} {0} {} {1.000} {}
+
+R {25245} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25246} {e} {e} {2} {0} {} {1.000} {}
+E {25215} {n} {n} {1} {0} {} {1.000} {}
+E {25275} {s} {s} {4} {0} {} {1.000} {}
+E {25244} {w} {w} {8} {0} {} {1.000} {}
+
+R {25246} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25247} {e} {e} {2} {0} {} {1.000} {}
+E {25216} {n} {n} {1} {0} {} {1.000} {}
+E {25276} {s} {s} {4} {0} {} {1.000} {}
+E {25245} {w} {w} {8} {0} {} {1.000} {}
+
+R {25247} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25248} {e} {e} {2} {0} {} {1.000} {}
+E {25217} {n} {n} {1} {0} {} {1.000} {}
+E {25277} {s} {s} {4} {0} {} {1.000} {}
+E {25246} {w} {w} {8} {0} {} {1.000} {}
+
+R {25248} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25249} {e} {e} {2} {0} {} {1.000} {}
+E {25218} {n} {n} {1} {0} {} {1.000} {}
+E {25278} {s} {s} {4} {0} {} {1.000} {}
+E { 4334} {u} {u} {16} {0} {} {1.000} {}
+E {25247} {w} {w} {8} {0} {} {1.000} {}
+
+R {25249} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+
+R {25250} {0} {<238>} {Rocky Shores} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+
+R {25251} {0} {<238>} {Rocky Shores} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25252} {e} {e} {2} {0} {} {1.000} {}
+E {25221} {n} {n} {1} {0} {} {1.000} {}
+E {25281} {s} {s} {4} {0} {} {1.000} {}
+E {27882} {u} {u} {16} {0} {} {1.000} {}
+E {25250} {w} {w} {8} {0} {} {1.000} {}
+
+R {25252} {0} {<238>} {Rocky Shores} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+
+R {25257} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25258} {0} {<238>} {Overlooking the Forbidden Waters} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25259} {e} {e} {2} {0} {} {1.000} {}
+E {25228} {n} {n} {1} {0} {} {1.000} {}
+E {25288} {s} {s} {4} {0} {} {1.000} {}
+E {25257} {w} {w} {8} {0} {} {1.000} {}
+
+R {25259} {0} {<238>} {Pride's Pass} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25260} {e} {e} {2} {0} {} {1.000} {}
+E {25229} {n} {n} {1} {0} {} {1.000} {}
+E {25289} {s} {s} {4} {0} {} {1.000} {}
+E {25258} {w} {w} {8} {0} {} {1.000} {}
+
+R {25260} {0} {<238>} {Pride's Pass} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25261} {e} {e} {2} {0} {} {1.000} {}
+E {25230} {n} {n} {1} {0} {} {1.000} {}
+E {25290} {s} {s} {4} {0} {} {1.000} {}
+E {25259} {w} {w} {8} {0} {} {1.000} {}
+
+R {25261} {0} {<238>} {Pride's Pass} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25262} {e} {e} {2} {0} {} {1.000} {}
+E {25231} {n} {n} {1} {0} {} {1.000} {}
+E {25291} {s} {s} {4} {0} {} {1.000} {}
+E {25260} {w} {w} {8} {0} {} {1.000} {}
+
+R {25262} {0} {<238>} {Pride's Pass} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25263} {e} {e} {2} {0} {} {1.000} {}
+E {25232} {n} {n} {1} {0} {} {1.000} {}
+E {25292} {s} {s} {4} {0} {} {1.000} {}
+E {25261} {w} {w} {8} {0} {} {1.000} {}
+
+R {25263} {0} {<238>} {Pride's Pass} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25264} {e} {e} {2} {0} {} {1.000} {}
+E {25233} {n} {n} {1} {0} {} {1.000} {}
+E {25293} {s} {s} {4} {0} {} {1.000} {}
+E {25262} {w} {w} {8} {0} {} {1.000} {}
+
+R {25264} {0} {<238>} {Cliffs Above the Trail} {<238>A A<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+E {25265} {e} {e} {2} {0} {} {1.000} {}
+E {25234} {n} {n} {1} {0} {} {1.000} {}
+E {25294} {s} {s} {4} {0} {} {1.000} {}
+E {25263} {w} {w} {8} {0} {} {1.000} {}
+
+R {25265} {0} {<238>} {Cliffs Above the Trail} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25266} {e} {e} {2} {0} {} {1.000} {}
+E {25235} {n} {n} {1} {0} {} {1.000} {}
+E {25295} {s} {s} {4} {0} {} {1.000} {}
+E {25264} {w} {w} {8} {0} {} {1.000} {}
+
+R {25266} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25267} {e} {e} {2} {0} {} {1.000} {}
+E {25236} {n} {n} {1} {0} {} {1.000} {}
+E {25296} {s} {s} {4} {0} {} {1.000} {}
+E {25265} {w} {w} {8} {0} {} {1.000} {}
+
+R {25267} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25268} {e} {e} {2} {0} {} {1.000} {}
+E {25237} {n} {n} {1} {0} {} {1.000} {}
+E {25297} {s} {s} {4} {0} {} {1.000} {}
+E {25266} {w} {w} {8} {0} {} {1.000} {}
+
+R {25268} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25269} {e} {e} {2} {0} {} {1.000} {}
+E {25238} {n} {n} {1} {0} {} {1.000} {}
+E {25298} {s} {s} {4} {0} {} {1.000} {}
+E {25267} {w} {w} {8} {0} {} {1.000} {}
+
+R {25269} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25270} {e} {e} {2} {0} {} {1.000} {}
+E {25239} {n} {n} {1} {0} {} {1.000} {}
+E {25299} {s} {s} {4} {0} {} {1.000} {}
+E {25268} {w} {w} {8} {0} {} {1.000} {}
+
+R {25270} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25271} {e} {e} {2} {0} {} {1.000} {}
+E {25240} {n} {n} {1} {0} {} {1.000} {}
+E {25300} {s} {s} {4} {0} {} {1.000} {}
+E {25269} {w} {w} {8} {0} {} {1.000} {}
+
+R {25271} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25272} {e} {e} {2} {0} {} {1.000} {}
+E {25241} {n} {n} {1} {0} {} {1.000} {}
+E {25301} {s} {s} {4} {0} {} {1.000} {}
+E {25270} {w} {w} {8} {0} {} {1.000} {}
+
+R {25272} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25273} {e} {e} {2} {0} {} {1.000} {}
+E {25242} {n} {n} {1} {0} {} {1.000} {}
+E {25302} {s} {s} {4} {0} {} {1.000} {}
+E {25271} {w} {w} {8} {0} {} {1.000} {}
+
+R {25273} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25274} {e} {e} {2} {0} {} {1.000} {}
+E {25243} {n} {n} {1} {0} {} {1.000} {}
+E {25303} {s} {s} {4} {0} {} {1.000} {}
+E {25272} {w} {w} {8} {0} {} {1.000} {}
+
+R {25274} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25275} {e} {e} {2} {0} {} {1.000} {}
+E {25244} {n} {n} {1} {0} {} {1.000} {}
+E {25273} {w} {w} {8} {0} {} {1.000} {}
+
+R {25275} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25276} {e} {e} {2} {0} {} {1.000} {}
+E {25245} {n} {n} {1} {0} {} {1.000} {}
+E {25305} {s} {s} {4} {0} {} {1.000} {}
+E {25274} {w} {w} {8} {0} {} {1.000} {}
+
+R {25276} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25277} {e} {e} {2} {0} {} {1.000} {}
+E {25246} {n} {n} {1} {0} {} {1.000} {}
+E {25306} {s} {s} {4} {0} {} {1.000} {}
+E {25275} {w} {w} {8} {0} {} {1.000} {}
+
+R {25277} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25278} {e} {e} {2} {0} {} {1.000} {}
+E {25247} {n} {n} {1} {0} {} {1.000} {}
+E {25307} {s} {s} {4} {0} {} {1.000} {}
+E {25276} {w} {w} {8} {0} {} {1.000} {}
+
+R {25278} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25279} {e} {e} {2} {0} {} {1.000} {}
+E {25248} {n} {n} {1} {0} {} {1.000} {}
+E {25308} {s} {s} {4} {0} {} {1.000} {}
+E {25277} {w} {w} {8} {0} {} {1.000} {}
+
+R {25279} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25280} {e} {e} {2} {0} {} {1.000} {}
+E {25249} {n} {n} {1} {0} {} {1.000} {}
+E {25309} {s} {s} {4} {0} {} {1.000} {}
+E {25278} {w} {w} {8} {0} {} {1.000} {}
+
+R {25280} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+
+R {25281} {0} {<238>} {Rocky Shores} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25282} {e} {e} {2} {0} {} {1.000} {}
+E {25251} {n} {n} {1} {0} {} {1.000} {}
+E {25311} {s} {s} {4} {0} {} {1.000} {}
+E {25280} {w} {w} {8} {0} {} {1.000} {}
+
+R {25282} {0} {<238>} {Rocky Shores} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+
+R {25287} {0} {<238>} {Overlooking the Unforgiving Waters} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+
+R {25288} {0} {<248>} {Lion's Maw} {<248>% %<088>} {} {abend} {} {cave} {} {1.000} {}
+E {25289} {e} {e} {2} {0} {} {1.000} {}
+E {25258} {n} {n} {1} {0} {} {1.000} {}
+E {25318} {s} {s} {4} {0} {} {1.000} {}
+E {25287} {w} {w} {8} {0} {} {1.000} {}
+
+R {25289} {0} {<238>} {Dark Mountains of Abend} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25290} {e} {e} {2} {0} {} {1.000} {}
+E {25259} {n} {n} {1} {0} {} {1.000} {}
+E {25319} {s} {s} {4} {0} {} {1.000} {}
+E {25288} {w} {w} {8} {0} {} {1.000} {}
+
+R {25290} {0} {<238>} {Valley Trail} {<238>A A<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+E {25291} {e} {e} {2} {0} {} {1.000} {}
+E {25260} {n} {n} {1} {0} {} {1.000} {}
+E {29539} {s} {s} {4} {0} {} {1.000} {}
+E {25289} {w} {w} {8} {0} {} {1.000} {}
+
+R {25291} {0} {<238>} {Valley Trail} {<238>A A<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+E {25292} {e} {e} {2} {0} {} {1.000} {}
+E {25261} {n} {n} {1} {0} {} {1.000} {}
+E {25321} {s} {s} {4} {0} {} {1.000} {}
+E {25290} {w} {w} {8} {0} {} {1.000} {}
+
+R {25292} {0} {<238>} {Valley Trail} {<238>A A<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+E {25293} {e} {e} {2} {0} {} {1.000} {}
+E {25262} {n} {n} {1} {0} {} {1.000} {}
+E {25322} {s} {s} {4} {0} {} {1.000} {}
+E {25291} {w} {w} {8} {0} {} {1.000} {}
+
+R {25293} {0} {<238>} {Valley Trail} {<238>A A<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+E {25294} {e} {e} {2} {0} {} {1.000} {}
+E {25263} {n} {n} {1} {0} {} {1.000} {}
+E {25323} {s} {s} {4} {0} {} {1.000} {}
+E {25292} {w} {w} {8} {0} {} {1.000} {}
+
+R {25294} {0} {<238>} {Valley Trail} {<238>A A<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+E {25295} {e} {e} {2} {0} {} {1.000} {}
+E {25264} {n} {n} {1} {0} {} {1.000} {}
+E {25324} {s} {s} {4} {0} {} {1.000} {}
+E {25293} {w} {w} {8} {0} {} {1.000} {}
+
+R {25295} {0} {<238>} {Cliffs Above the Trail} {<238>A A<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+E {25296} {e} {e} {2} {0} {} {1.000} {}
+E {25265} {n} {n} {1} {0} {} {1.000} {}
+E {25325} {s} {s} {4} {0} {} {1.000} {}
+E {25294} {w} {w} {8} {0} {} {1.000} {}
+
+R {25296} {0} {<238>} {A Moss Covered Trail} {<238>A A<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+E {25297} {e} {e} {2} {0} {} {1.000} {}
+E {25266} {n} {n} {1} {0} {} {1.000} {}
+E {25326} {s} {s} {4} {0} {} {1.000} {}
+E {25295} {w} {w} {8} {0} {} {1.000} {}
+
+R {25297} {0} {<238>} {Cliffs Above the Trail} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25298} {e} {e} {2} {0} {} {1.000} {}
+E {25267} {n} {n} {1} {0} {} {1.000} {}
+E {25327} {s} {s} {4} {0} {} {1.000} {}
+E {25296} {w} {w} {8} {0} {} {1.000} {}
+
+R {25298} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25299} {e} {e} {2} {0} {} {1.000} {}
+E {25268} {n} {n} {1} {0} {} {1.000} {}
+E {25328} {s} {s} {4} {0} {} {1.000} {}
+E {25297} {w} {w} {8} {0} {} {1.000} {}
+
+R {25299} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25300} {e} {e} {2} {0} {} {1.000} {}
+E {25269} {n} {n} {1} {0} {} {1.000} {}
+E {25329} {s} {s} {4} {0} {} {1.000} {}
+E {25298} {w} {w} {8} {0} {} {1.000} {}
+
+R {25300} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25301} {e} {e} {2} {0} {} {1.000} {}
+E {25270} {n} {n} {1} {0} {} {1.000} {}
+E {25330} {s} {s} {4} {0} {} {1.000} {}
+E {25299} {w} {w} {8} {0} {} {1.000} {}
+
+R {25301} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25302} {e} {e} {2} {0} {} {1.000} {}
+E {25271} {n} {n} {1} {0} {} {1.000} {}
+E {25331} {s} {s} {4} {0} {} {1.000} {}
+E {25300} {w} {w} {8} {0} {} {1.000} {}
+
+R {25302} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25303} {e} {e} {2} {0} {} {1.000} {}
+E {25272} {n} {n} {1} {0} {} {1.000} {}
+E {25332} {s} {s} {4} {0} {} {1.000} {}
+E {25301} {w} {w} {8} {0} {} {1.000} {}
+
+R {25303} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25273} {n} {n} {1} {0} {} {1.000} {}
+E {25333} {s} {s} {4} {0} {} {1.000} {}
+E {25302} {w} {w} {8} {0} {} {1.000} {}
+E { 1865} {e} {e} {2} {0} {} {1.000} {}
+
+R {25305} {0} {<238>} {Into the Lion's Mouth} {<238>A A<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+E {25306} {e} {e} {2} {0} {} {1.000} {}
+E {25275} {n} {n} {1} {0} {} {1.000} {}
+E {25335} {s} {s} {4} {0} {} {1.000} {}
+E { 1865} {w} {w} {8} {0} {} {1.000} {}
+
+R {25306} {0} {<248>} {Lion's Cave} {<248>% %<088>} {} {abend} {} {cave} {} {1.000} {}
+E {25307} {e} {e} {2} {0} {} {1.000} {}
+E {25276} {n} {n} {1} {0} {} {1.000} {}
+E {25336} {s} {s} {4} {0} {} {1.000} {}
+E {25305} {w} {w} {8} {0} {} {1.000} {}
+
+R {25307} {0} {<248>} {Lion's Cave} {<248>% %<088>} {} {abend} {} {cave} {} {1.000} {}
+E {25308} {e} {e} {2} {0} {} {1.000} {}
+E {25277} {n} {n} {1} {0} {} {1.000} {}
+E {25337} {s} {s} {4} {0} {} {1.000} {}
+E {25306} {w} {w} {8} {0} {} {1.000} {}
+
+R {25308} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25309} {e} {e} {2} {0} {} {1.000} {}
+E {25278} {n} {n} {1} {0} {} {1.000} {}
+E {25338} {s} {s} {4} {0} {} {1.000} {}
+E {25307} {w} {w} {8} {0} {} {1.000} {}
+
+R {25309} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25310} {e} {e} {2} {0} {} {1.000} {}
+E {25279} {n} {n} {1} {0} {} {1.000} {}
+E {25339} {s} {s} {4} {0} {} {1.000} {}
+E {25308} {w} {w} {8} {0} {} {1.000} {}
+
+R {25310} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25311} {e} {e} {2} {0} {} {1.000} {}
+E {25280} {n} {n} {1} {0} {} {1.000} {}
+E {42000} {s} {s} {4} {0} {} {1.000} {}
+E {25309} {w} {w} {8} {0} {} {1.000} {}
+
+R {25311} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25312} {e} {e} {2} {0} {} {1.000} {}
+E {25281} {n} {n} {1} {0} {} {1.000} {}
+E {25341} {s} {s} {4} {0} {} {1.000} {}
+E {25310} {w} {w} {8} {0} {} {1.000} {}
+
+R {25312} {0} {<238>} {Rocky Shores} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+
+R {25316} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25317} {0} {<238>} {Dark Mountains of Abend} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25318} {e} {e} {2} {0} {} {1.000} {}
+E {25287} {n} {n} {1} {0} {} {1.000} {}
+E {25347} {s} {s} {4} {0} {} {1.000} {}
+E {25316} {w} {w} {8} {0} {} {1.000} {}
+
+R {25318} {0} {<238>} {Overlooking the Unforgiving Waters} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25319} {e} {e} {2} {0} {} {1.000} {}
+E {25288} {n} {n} {1} {0} {} {1.000} {}
+E {25348} {s} {s} {4} {0} {} {1.000} {}
+E {25317} {w} {w} {8} {0} {} {1.000} {}
+
+R {25319} {0} {<238>} {Dark Mountains of Abend} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {29539} {e} {e} {2} {0} {} {1.000} {}
+E {25289} {n} {n} {1} {0} {} {1.000} {}
+E {25349} {s} {s} {4} {0} {} {1.000} {}
+E {25318} {w} {w} {8} {0} {} {1.000} {}
+
+R {25321} {0} {<238>} {Rocky Shores of Abend} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25322} {e} {e} {2} {0} {} {1.000} {}
+E {25291} {n} {n} {1} {0} {} {1.000} {}
+E {25351} {s} {s} {4} {0} {} {1.000} {}
+E {29539} {w} {w} {8} {0} {} {1.000} {}
+
+R {25322} {0} {<238>} {Dark Mountains of Abend} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25323} {e} {e} {2} {0} {} {1.000} {}
+E {25292} {n} {n} {1} {0} {} {1.000} {}
+E {25352} {s} {s} {4} {0} {} {1.000} {}
+E {25321} {w} {w} {8} {0} {} {1.000} {}
+
+R {25323} {0} {<238>} {Cliffs Above the Trail} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25324} {e} {e} {2} {0} {} {1.000} {}
+E {25293} {n} {n} {1} {0} {} {1.000} {}
+E {25353} {s} {s} {4} {0} {} {1.000} {}
+E {25322} {w} {w} {8} {0} {} {1.000} {}
+
+R {25324} {0} {<238>} {A Moss Covered Trail} {<238>A A<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+E {25325} {e} {e} {2} {0} {} {1.000} {}
+E {25294} {n} {n} {1} {0} {} {1.000} {}
+E {25354} {s} {s} {4} {0} {} {1.000} {}
+E {25323} {w} {w} {8} {0} {} {1.000} {}
+
+R {25325} {0} {<238>} {Cliffs Above the Trail} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25326} {e} {e} {2} {0} {} {1.000} {}
+E {25295} {n} {n} {1} {0} {} {1.000} {}
+E {25355} {s} {s} {4} {0} {} {1.000} {}
+E {25324} {w} {w} {8} {0} {} {1.000} {}
+
+R {25326} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25327} {e} {e} {2} {0} {} {1.000} {}
+E {25296} {n} {n} {1} {0} {} {1.000} {}
+E {25356} {s} {s} {4} {0} {} {1.000} {}
+E {25325} {w} {w} {8} {0} {} {1.000} {}
+
+R {25327} {0} {<208>} {Lost in the Darkness} {<208>[ ]<088>} {} {abend} {} {dark} {} {1.000} {}
+E {25328} {e} {e} {2} {0} {} {1.000} {}
+E {25297} {n} {n} {1} {0} {} {1.000} {}
+E {25357} {s} {s} {4} {0} {} {1.000} {}
+E {25326} {w} {w} {8} {0} {} {1.000} {}
+
+R {25328} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {26366} {d} {d} {32} {0} {} {1.000} {}
+E {25329} {e} {e} {2} {0} {} {1.000} {}
+E {25298} {n} {n} {1} {0} {} {1.000} {}
+E {25358} {s} {s} {4} {0} {} {1.000} {}
+E {25327} {w} {w} {8} {0} {} {1.000} {}
+
+R {25329} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25330} {e} {e} {2} {0} {} {1.000} {}
+E {25299} {n} {n} {1} {0} {} {1.000} {}
+E {25359} {s} {s} {4} {0} {} {1.000} {}
+E {25328} {w} {w} {8} {0} {} {1.000} {}
+
+R {25330} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25331} {e} {e} {2} {0} {} {1.000} {}
+E {25300} {n} {n} {1} {0} {} {1.000} {}
+E {15857} {s} {s} {4} {0} {} {1.000} {}
+E {25329} {w} {w} {8} {0} {} {1.000} {}
+
+R {25331} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25332} {e} {e} {2} {0} {} {1.000} {}
+E {25301} {n} {n} {1} {0} {} {1.000} {}
+E {25361} {s} {s} {4} {0} {} {1.000} {}
+E {25330} {w} {w} {8} {0} {} {1.000} {}
+
+R {25332} {0} {<238>} {Lion's Track} {<238>A A<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+E {25333} {e} {e} {2} {0} {} {1.000} {}
+E {25302} {n} {n} {1} {0} {} {1.000} {}
+E {25362} {s} {s} {4} {0} {} {1.000} {}
+E {25331} {w} {w} {8} {0} {} {1.000} {}
+
+R {25333} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25334} {e} {e} {2} {0} {} {1.000} {}
+E {25303} {n} {n} {1} {0} {} {1.000} {}
+E {25363} {s} {s} {4} {0} {} {1.000} {}
+E {25332} {w} {w} {8} {0} {} {1.000} {}
+
+R {25334} {0} {<248>} {Into the Lion's Mouth} {<248>% %<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+E {25335} {e} {e} {2} {0} {} {1.000} {}
+E { 1865} {n} {n} {1} {0} {} {1.000} {}
+E {25364} {s} {s} {4} {0} {} {1.000} {}
+E {25333} {w} {w} {8} {0} {} {1.000} {}
+
+R {25335} {0} {<248>} {Lion's Cave} {<248>% %<088>} {} {abend} {} {cave} {} {1.000} {}
+E {25336} {e} {e} {2} {0} {} {1.000} {}
+E {25305} {n} {n} {1} {0} {} {1.000} {}
+E {25365} {s} {s} {4} {0} {} {1.000} {}
+E {25334} {w} {w} {8} {0} {} {1.000} {}
+
+R {25336} {0} {<238>} {Into the Lion's Mouth} {<238>A A<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+E {25337} {e} {e} {2} {0} {} {1.000} {}
+E {25306} {n} {n} {1} {0} {} {1.000} {}
+E {25366} {s} {s} {4} {0} {} {1.000} {}
+E {25335} {w} {w} {8} {0} {} {1.000} {}
+
+R {25337} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25338} {e} {e} {2} {0} {} {1.000} {}
+E {25307} {n} {n} {1} {0} {} {1.000} {}
+E {25367} {s} {s} {4} {0} {} {1.000} {}
+E {25336} {w} {w} {8} {0} {} {1.000} {}
+
+R {25338} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25339} {e} {e} {2} {0} {} {1.000} {}
+E {25308} {n} {n} {1} {0} {} {1.000} {}
+E {25368} {s} {s} {4} {0} {} {1.000} {}
+E {25337} {w} {w} {8} {0} {} {1.000} {}
+
+R {25339} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {42000} {e} {e} {2} {0} {} {1.000} {}
+E {25309} {n} {n} {1} {0} {} {1.000} {}
+E {25369} {s} {s} {4} {0} {} {1.000} {}
+E {25338} {w} {w} {8} {0} {} {1.000} {}
+
+R {25341} {0} {<238>} {Rocky Shores} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25342} {e} {e} {2} {0} {} {1.000} {}
+E {25311} {n} {n} {1} {0} {} {1.000} {}
+E {25371} {s} {s} {4} {0} {} {1.000} {}
+E {42000} {w} {w} {8} {0} {} {1.000} {}
+
+R {25342} {0} {<238>} {Rocky Shores} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+
+R {25347} {0} {<238>} {Overlooking the Unforgiving Waters} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {    6} {n} {n} {1} {0} {} {1.000} {}
+E {    8} {e} {e} {2} {0} {} {1.000} {}
+
+R {25348} {0} {<238>} {Cliff Edge} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25349} {e} {e} {2} {0} {} {1.000} {}
+E {25318} {n} {n} {1} {0} {} {1.000} {}
+E {25378} {s} {s} {4} {0} {} {1.000} {}
+E {25347} {w} {w} {8} {0} {} {1.000} {}
+
+R {25349} {0} {<238>} {Dark Mountains of Abend} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25350} {e} {e} {2} {0} {} {1.000} {}
+E {25319} {n} {n} {1} {0} {} {1.000} {}
+E {25379} {s} {s} {4} {0} {} {1.000} {}
+E {25348} {w} {w} {8} {0} {} {1.000} {}
+
+R {25350} {0} {<238>} {Cliff Edge} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25351} {e} {e} {2} {0} {} {1.000} {}
+E {25380} {s} {s} {4} {0} {} {1.000} {}
+E {25349} {w} {w} {8} {0} {} {1.000} {}
+
+R {25351} {0} {<238>} {Rocky Shores of Abend} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {    9} {w} {w} {8} {0} {} {1.000} {}
+
+R {25352} {0} {<238>} {Rocky Shores of Abend} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25353} {e} {e} {2} {0} {} {1.000} {}
+E {25322} {n} {n} {1} {0} {} {1.000} {}
+E {25382} {s} {s} {4} {0} {} {1.000} {}
+E {25351} {w} {w} {8} {0} {} {1.000} {}
+
+R {25353} {0} {<248>} {Lion's Mouth Cave} {<248>% %<088>} {} {abend} {} {cave} {} {1.000} {}
+E {25354} {e} {e} {2} {0} {} {1.000} {}
+E {25323} {n} {n} {1} {0} {} {1.000} {}
+E {25383} {s} {s} {4} {0} {} {1.000} {}
+E {25352} {w} {w} {8} {0} {} {1.000} {}
+
+R {25354} {0} {<238>} {Rocky Shores of Abend} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25355} {e} {e} {2} {0} {} {1.000} {}
+E {25324} {n} {n} {1} {0} {} {1.000} {}
+E {38561} {s} {s} {4} {0} {} {1.000} {}
+E {25353} {w} {w} {8} {0} {} {1.000} {}
+
+R {25355} {0} {<238>} {Cliffs Above the Trail} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25356} {e} {e} {2} {0} {} {1.000} {}
+E {25325} {n} {n} {1} {0} {} {1.000} {}
+E {25385} {s} {s} {4} {0} {} {1.000} {}
+E {25354} {w} {w} {8} {0} {} {1.000} {}
+
+R {25356} {0} {<238>} {A Moss Covered Trail} {<238>A A<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+E {25357} {e} {e} {2} {0} {} {1.000} {}
+E {25326} {n} {n} {1} {0} {} {1.000} {}
+E {25386} {s} {s} {4} {0} {} {1.000} {}
+E {25355} {w} {w} {8} {0} {} {1.000} {}
+
+R {25357} {0} {<238>} {Cliffs Above the Trail} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25358} {e} {e} {2} {0} {} {1.000} {}
+E {25327} {n} {n} {1} {0} {} {1.000} {}
+E {25387} {s} {s} {4} {0} {} {1.000} {}
+E {25356} {w} {w} {8} {0} {} {1.000} {}
+
+R {25358} {0} {<238>} {Rocky Shores of Abend} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25359} {e} {e} {2} {0} {} {1.000} {}
+E {25328} {n} {n} {1} {0} {} {1.000} {}
+E {25388} {s} {s} {4} {0} {} {1.000} {}
+E {25357} {w} {w} {8} {0} {} {1.000} {}
+
+R {25359} {0} {<238>} {Rocky Shoreline of Abend} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {15857} {e} {e} {2} {0} {} {1.000} {}
+E {25329} {n} {n} {1} {0} {} {1.000} {}
+E {25389} {s} {s} {4} {0} {} {1.000} {}
+E {25358} {w} {w} {8} {0} {} {1.000} {}
+
+R {25361} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25362} {e} {e} {2} {0} {} {1.000} {}
+E {25331} {n} {n} {1} {0} {} {1.000} {}
+E {25391} {s} {s} {4} {0} {} {1.000} {}
+E {15857} {w} {w} {8} {0} {} {1.000} {}
+
+R {25362} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25363} {e} {e} {2} {0} {} {1.000} {}
+E {25332} {n} {n} {1} {0} {} {1.000} {}
+E {25392} {s} {s} {4} {0} {} {1.000} {}
+E {25361} {w} {w} {8} {0} {} {1.000} {}
+
+R {25363} {0} {<238>} {Rocky Shores of Abend} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25364} {e} {e} {2} {0} {} {1.000} {}
+E {25333} {n} {n} {1} {0} {} {1.000} {}
+E {25393} {s} {s} {4} {0} {} {1.000} {}
+E {25362} {w} {w} {8} {0} {} {1.000} {}
+
+R {25364} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25365} {e} {e} {2} {0} {} {1.000} {}
+E {25334} {n} {n} {1} {0} {} {1.000} {}
+E {25394} {s} {s} {4} {0} {} {1.000} {}
+E {25363} {w} {w} {8} {0} {} {1.000} {}
+
+R {25365} {0} {<238>} {Feline Point} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25366} {e} {e} {2} {0} {} {1.000} {}
+E {25335} {n} {n} {1} {0} {} {1.000} {}
+E {25395} {s} {s} {4} {0} {} {1.000} {}
+E {25364} {w} {w} {8} {0} {} {1.000} {}
+
+R {25366} {0} {<238>} {Into the Lion's Mouth} {<238>A A<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+E {25367} {e} {e} {2} {0} {} {1.000} {}
+E {25336} {n} {n} {1} {0} {} {1.000} {}
+E {25396} {s} {s} {4} {0} {} {1.000} {}
+E {25365} {w} {w} {8} {0} {} {1.000} {}
+
+R {25367} {0} {<238>} {Black Claw Crag} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25368} {e} {e} {2} {0} {} {1.000} {}
+E {25337} {n} {n} {1} {0} {} {1.000} {}
+E {25397} {s} {s} {4} {0} {} {1.000} {}
+E {25366} {w} {w} {8} {0} {} {1.000} {}
+
+R {25368} {0} {<238>} {Into the Lion's Mouth} {<238>A A<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+E {25369} {e} {e} {2} {0} {} {1.000} {}
+E {25338} {n} {n} {1} {0} {} {1.000} {}
+E {25398} {s} {s} {4} {0} {} {1.000} {}
+E {25367} {w} {w} {8} {0} {} {1.000} {}
+
+R {25369} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25370} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25371} {0} {<238>} {Rocky Shores} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25372} {e} {e} {2} {0} {} {1.000} {}
+E {25341} {n} {n} {1} {0} {} {1.000} {}
+E {25401} {s} {s} {4} {0} {} {1.000} {}
+E {25370} {w} {w} {8} {0} {} {1.000} {}
+
+R {25372} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25378} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25379} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25380} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25382} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25383} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25385} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25386} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25387} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25388} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25389} {0} {<248>} {Cub's Mouth Cave} {<248>% %<088>} {} {abend} {} {cave} {} {1.000} {}
+
+R {25390} {0} {<278>} {Base of the Monolith} {<278> * <088>} {} {zodiac} {} {pillar} {} {1.000} {}
+E {25391} {e} {e} {2} {0} {} {1.000} {}
+E {15857} {n} {n} {1} {0} {} {1.000} {}
+E {25420} {s} {s} {4} {0} {} {1.000} {}
+E {25389} {w} {w} {8} {0} {} {1.000} {}
+
+R {25391} {0} {<248>} {Cub's Mouth Cave} {<248>% %<088>} {} {abend} {} {cave} {} {1.000} {}
+E {25392} {e} {e} {2} {0} {} {1.000} {}
+E {25361} {n} {n} {1} {0} {} {1.000} {}
+E {25421} {s} {s} {4} {0} {} {1.000} {}
+E {25390} {w} {w} {8} {0} {} {1.000} {}
+
+R {25392} {0} {<238>} {Rocky Shores of Abend} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25393} {e} {e} {2} {0} {} {1.000} {}
+E {25362} {n} {n} {1} {0} {} {1.000} {}
+E {25422} {s} {s} {4} {0} {} {1.000} {}
+E {25391} {w} {w} {8} {0} {} {1.000} {}
+
+R {25393} {0} {<238>} {Rocky Shores of Abend} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {25394} {e} {e} {2} {0} {} {1.000} {}
+E {25363} {n} {n} {1} {0} {} {1.000} {}
+E {25423} {s} {s} {4} {0} {} {1.000} {}
+E {25392} {w} {w} {8} {0} {} {1.000} {}
+
+R {25394} {0} {<238>} {Rocky Shores of Abend} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+
+R {25395} {0} {<238>} {Into the Lion's Mouth} {<238>A A<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+
+R {25396} {0} {<238>} {Into the Lion's Mouth} {<238>A A<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+E {25397} {e} {e} {2} {0} {} {1.000} {}
+E {25366} {n} {n} {1} {0} {} {1.000} {}
+E {25426} {s} {s} {4} {0} {} {1.000} {}
+E {25395} {w} {w} {8} {0} {} {1.000} {}
+
+R {25397} {0} {<238>} {Into the Lion's Mouth} {<238>A A<088>} {} {abend} {} {trail_ew} {} {1.000} {}
+E {25398} {e} {e} {2} {0} {} {1.000} {}
+E {25367} {n} {n} {1} {0} {} {1.000} {}
+E {25427} {s} {s} {4} {0} {} {1.000} {}
+E {25396} {w} {w} {8} {0} {} {1.000} {}
+
+R {25398} {0} {<238>} {Rocky Shores of Abend} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+
+R {25401} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {25420} {0} {<248>} {Cub's Mouth Cave} {<248>% %<088>} {} {abend} {} {cave} {} {1.000} {}
+
+R {25421} {0} {<238>} {Rocky Shores of Abend} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+
+R {25422} {0} {<238>} {Rocky Shores of Abend} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+
+R {25423} {0} {<238>} {Rocky Shores of Abend} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+
+R {25426} {0} {<238>} {Rocky Shores of Abend} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+
+R {25427} {0} {<238>} {Rocky Shores of Abend} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+
+R {26366} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {27882} {0} {<238>} {Rocky Shores} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+
+R {28909} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {29160} {0} {<248>} {Xanachu's Tunnel System} {<248>% %<088>} {} {abend} {} {underground} {} {1.000} {}
+E {24918} {e} {e} {2} {0} {} {1.000} {}
+
+R {29210} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {29211} {0} {<278>} {The Grand City of Aylor - Southern Entrance} {<278>. .<088>} {} {aylor} {} {city} {} {1.000} {}
+E {32538} {d} {d} {32} {0} {} {1.000} {}
+E {29210} {n} {n} {1} {0} {} {1.000} {}
+E {29229} {u} {u} {16} {0} {} {1.000} {}
+
+R {29229} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {29449} {0} {<228>} {Amongst the slag} {<228>. ^<088>} {} {yurgach} {} {hills} {} {1.000} {}
+E {29485} {e} {e} {2} {0} {} {1.000} {}
+E {29450} {n} {n} {1} {0} {} {1.000} {}
+E {29456} {s} {s} {4} {0} {} {1.000} {}
+E {25350} {w} {w} {8} {0} {} {1.000} {}
+
+R {29450} {0} {<228>} {Hidden gully} {<228>. ^<088>} {} {yurgach} {} {hills} {} {1.000} {}
+E {29474} {e} {e} {2} {0} {} {1.000} {}
+E {29449} {s} {s} {4} {0} {} {1.000} {}
+E {29539} {w} {w} {8} {0} {} {1.000} {}
+
+R {29451} {0} {<228>} {Entrance to a hole} {<228>. ^<088>} {} {yurgach} {} {hills} {} {1.000} {}
+E {29452} {e} {e} {2} {0} {} {1.000} {}
+E {29485} {u} {u} {16} {0} {} {1.000} {}
+
+R {29452} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {29456} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {29462} {0} {<228>} {Cave entrance} {<228>. ^<088>} {} {yurgach} {} {hills} {} {1.000} {}
+E {29474} {s} {s} {4} {0} {} {1.000} {}
+
+R {29474} {0} {<228>} {Amongst the slag} {<228>. ^<088>} {} {yurgach} {} {hills} {} {1.000} {}
+E {29462} {n} {n} {1} {0} {} {1.000} {}
+E {29450} {w} {w} {8} {0} {} {1.000} {}
+
+R {29485} {0} {<228>} {Entrance to a hole} {<228>. ^<088>} {} {yurgach} {} {hills} {} {1.000} {}
+E {29451} {d} {d} {32} {0} {} {1.000} {}
+E {29449} {w} {w} {8} {0} {} {1.000} {}
+
+R {29539} {0} {<238>} {Dark Mountains of Abend} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+E {29450} {e} {e} {2} {0} {} {1.000} {}
+E {25319} {w} {w} {8} {0} {} {1.000} {}
+
+R {30415} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {30518} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {31122} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {31161} {0} {<278>} {Syrus Road} {<278>. .<088>} {} {kultiras} {} {city} {} {1.000} {}
+E {25205} {e} {e} {2} {0} {} {1.000} {}
+E {31162} {n} {n} {1} {0} {} {1.000} {}
+E {25203} {w} {w} {8} {0} {} {1.000} {}
+
+R {31162} {0} {<278>} {Syrus Road} {<278>. .<088>} {} {kultiras} {} {city} {} {1.000} {}
+E {31163} {n} {n} {1} {0} {} {1.000} {}
+E {31161} {s} {s} {4} {0} {} {1.000} {}
+
+R {31163} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {31561} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {32343} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {32418} {0} {} {The Grand City of Aylor} { } {} {aylor} {} {aylorcity} {} {1.000} {}
+E {32615} {d} {d} {32} {0} {} {1.000} {}
+E {32698} {e} {e} {2} {0} {} {1.000} {}
+E {32539} {n} {n} {1} {0} {} {1.000} {}
+E {32419} {s} {s} {4} {0} {} {1.000} {}
+E {35200} {u} {u} {16} {0} {} {1.000} {}
+E {30518} {w} {w} {8} {0} {} {1.000} {}
+
+R {32419} {0} {<fca>} {The Grand City of Aylor} { } {} {aylor} {} {aylorcity} {} {1.000} {}
+E {  641} {d} {d} {32} {0} {} {1.000} {}
+E {30415} {e} {e} {2} {0} {} {1.000} {}
+E {32418} {n} {n} {1} {0} {} {1.000} {}
+E {32420} {s} {s} {4} {0} {} {1.000} {}
+E {28909} {u} {u} {16} {0} {} {1.000} {}
+E {31122} {w} {w} {8} {0} {} {1.000} {}
+
+R {32420} {0} {<278>} {Whitewind Avenue} {<278>. .<088>} {} {aylor} {} {city} {} {1.000} {}
+E {34212} {d} {d} {32} {0} {} {1.000} {}
+E {32428} {e} {e} {2} {0} {} {1.000} {}
+E {32419} {n} {n} {1} {0} {} {1.000} {}
+E {32450} {s} {s} {4} {0} {} {1.000} {}
+E {15704} {u} {u} {16} {0} {} {1.000} {}
+E {32421} {w} {w} {8} {0} {} {1.000} {}
+
+R {32421} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {32428} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {32441} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {32442} {0} {<218>} {The Grand Plaza} {<118>(<178>~<118>)<088>} {} {aylor} {} {hellfountain} {} {1.000} {}
+E {19968} {d} {d} {32} {0} {} {1.000} {}
+E {32443} {e} {e} {2} {0} {} {1.000} {}
+E {32452} {n} {n} {1} {0} {} {1.000} {}
+E {32456} {s} {s} {4} {0} {} {1.000} {}
+E {32343} {u} {u} {16} {0} {} {1.000} {}
+E {32441} {w} {w} {8} {0} {} {1.000} {}
+
+R {32443} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {32450} {0} {<278>} {Phoenix Square} {<278>- -<088>} {} {aylor} {} {road_eastwest} {} {1.000} {}
+E {32420} {n} {n} {1} {0} {} {1.000} {}
+E {32451} {s} {s} {4} {0} {} {1.000} {}
+
+R {32451} {0} {<278>} {Whitewind Avenue} {<278>. .<088>} {} {aylor} {} {city} {} {1.000} {}
+E {32450} {n} {n} {1} {0} {} {1.000} {}
+E {32452} {s} {s} {4} {0} {} {1.000} {}
+E {20026} {w} {w} {8} {0} {} {1.000} {}
+
+R {32452} {0} {<278>} {North of the Grand Plaza} {<278>. .<088>} {} {aylor} {} {city} {} {1.000} {}
+E {32454} {e} {e} {2} {0} {} {1.000} {}
+E {32451} {n} {n} {1} {0} {} {1.000} {}
+E {32442} {s} {s} {4} {0} {} {1.000} {}
+E {32453} {w} {w} {8} {0} {} {1.000} {}
+
+R {32453} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {32454} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {32455} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {32456} {0} {<278>} {Meridian Square} {<278>. .<088>} {} {aylor} {} {city} {} {1.000} {}
+E {32457} {e} {e} {2} {0} {} {1.000} {}
+E {32442} {n} {n} {1} {0} {} {1.000} {}
+E {32458} {s} {s} {4} {0} {} {1.000} {}
+E {32455} {w} {w} {8} {0} {} {1.000} {}
+
+R {32457} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {32458} {0} {<218>} {The Grand Plaza} {<118>(<178>~<118>)<088>} {} {aylor} {} {hellfountain} {} {1.000} {}
+E {31561} {e} {e} {2} {0} {} {1.000} {}
+E {32456} {n} {n} {1} {0} {} {1.000} {}
+E {32459} {s} {s} {4} {0} {} {1.000} {}
+E {14165} {u} {u} {16} {0} {} {1.000} {}
+
+R {32459} {0} {<278>} {Among the Philosophes} {<278>. .<088>} {} {aylor} {} {city} {} {1.000} {}
+E {32458} {n} {n} {1} {0} {} {1.000} {}
+E {32460} {s} {s} {4} {0} {} {1.000} {}
+
+R {32460} {0} {<278>} {Whitewind Avenue} {<278>. .<088>} {} {aylor} {} {city} {} {1.000} {}
+E {32587} {e} {e} {2} {0} {} {1.000} {}
+E {32459} {n} {n} {1} {0} {} {1.000} {}
+E {32469} {s} {s} {4} {0} {} {1.000} {}
+E {32461} {w} {w} {8} {0} {} {1.000} {}
+
+R {32461} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {32468} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {32469} {0} {<218>} {[1\;33mWelcome to Grandmarket Boulevard![0\;37m} {<118>(<178>~<118>)<088>} {} {aylor} {} {hellfountain} {} {1.000} {}
+E {32477} {e} {e} {2} {0} {} {1.000} {}
+E {32460} {n} {n} {1} {0} {} {1.000} {}
+E {32478} {s} {s} {4} {0} {} {1.000} {}
+E {32468} {w} {w} {8} {0} {} {1.000} {}
+
+R {32477} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {32478} {0} {<138>} {The Aylorian Bank of Ivar} {<138>*<128>$<138>*<088>} {} {aylor} {} {shop} {} {1.000} {}
+E {32469} {n} {n} {1} {0} {} {1.000} {}
+E {32479} {s} {s} {4} {0} {} {1.000} {}
+
+R {32479} {0} {<278>} {Whitewind Avenue} {<278>. .<088>} {} {aylor} {} {city} {} {1.000} {}
+E {16803} {d} {d} {32} {0} {} {1.000} {}
+E {32484} {e} {e} {2} {0} {} {1.000} {}
+E {32478} {n} {n} {1} {0} {} {1.000} {}
+E {32518} {s} {s} {4} {0} {} {1.000} {}
+E {32480} {w} {w} {8} {0} {} {1.000} {}
+
+R {32480} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {32484} {0} {<278>} {The Intersection of Whitewind and Darksoil} {<278>. .<088>} {} {aylor} {} {trail_ew} {} {1.000} {}
+E {32485} {e} {e} {2} {0} {} {1.000} {}
+E {32479} {w} {w} {8} {0} {} {1.000} {}
+
+R {32485} {0} {<278>} {Darksoil Path} {<278>[ ]<088>} {} {aylor} {} {trail_ew} {} {1.000} {}
+E {32486} {e} {e} {2} {0} {} {1.000} {}
+E {32493} {s} {s} {4} {0} {} {1.000} {}
+E {32484} {w} {w} {8} {0} {} {1.000} {}
+
+R {32486} {0} {<278>} {Darksoil Path} {<278>[ ]<088>} {} {aylor} {} {trail_ew} {} {1.000} {}
+E {32488} {e} {e} {2} {0} {} {1.000} {}
+E {32487} {n} {n} {1} {0} {} {1.000} {}
+E {32492} {s} {s} {4} {0} {} {1.000} {}
+E {32485} {w} {w} {8} {0} {} {1.000} {}
+
+R {32487} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {32488} {0} {<278>} {Darksoil} {<278>[ ]<088>} {} {aylor} {} {trail_ew} {} {1.000} {}
+E {32489} {e} {e} {2} {0} {} {1.000} {}
+E {32491} {s} {s} {4} {0} {} {1.000} {}
+E {32486} {w} {w} {8} {0} {} {1.000} {}
+
+R {32489} {0} {<278>} {Darksoil - East} {<278>[ ]<088>} {} {aylor} {} {trail_ew} {} {1.000} {}
+E {32490} {s} {s} {4} {0} {} {1.000} {}
+E {32488} {w} {w} {8} {0} {} {1.000} {}
+
+R {32490} {0} {<278>} {Darksoil Path - Dead End} {<278>[ ]<088>} {} {aylor} {} {trail_ew} {} {1.000} {}
+E {32489} {n} {n} {1} {0} {} {1.000} {}
+E {32498} {s} {s} {4} {0} {} {1.000} {}
+E {32491} {w} {w} {8} {0} {} {1.000} {}
+
+R {32491} {0} {<278>} {Lightsoil Boardwalk} {<278>---<088>} {} {aylor} {} {smallroad_ew} {} {1.000} {}
+E {32490} {e} {e} {2} {0} {} {1.000} {}
+E {32488} {n} {n} {1} {0} {} {1.000} {}
+E {32497} {s} {s} {4} {0} {} {1.000} {}
+E {32492} {w} {w} {8} {0} {} {1.000} {}
+
+R {32492} {0} {<278>} {Lightsoil Boardwalk} {<278>---<088>} {} {aylor} {} {smallroad_ew} {} {1.000} {}
+E {32491} {e} {e} {2} {0} {} {1.000} {}
+E {32486} {n} {n} {1} {0} {} {1.000} {}
+E {32496} {s} {s} {4} {0} {} {1.000} {}
+E {32493} {w} {w} {8} {0} {} {1.000} {}
+
+R {32493} {0} {<278>} {Darksoil Path} {<278>[ ]<088>} {} {aylor} {} {trail_ew} {} {1.000} {}
+E {32492} {e} {e} {2} {0} {} {1.000} {}
+E {32485} {n} {n} {1} {0} {} {1.000} {}
+E {32494} {s} {s} {4} {0} {} {1.000} {}
+
+R {32494} {0} {<138>} {Pristine Beach} {<138>, `<088>} {} {aylor} {} {beach} {} {1.000} {}
+E {32496} {e} {e} {2} {0} {} {1.000} {}
+E {32493} {n} {n} {1} {0} {} {1.000} {}
+E {32504} {s} {s} {4} {0} {} {1.000} {}
+E {32495} {w} {w} {8} {0} {} {1.000} {}
+
+R {32495} {0} {<268>} {On Pristine Lake} {<268>~ ~<088>} {} {aylor} {} {waterswim} {} {1.000} {}
+E {32494} {e} {e} {2} {0} {} {1.000} {}
+E {32505} {s} {s} {4} {0} {} {1.000} {}
+
+R {32496} {0} {<278>} {Lightsoil Boardwalk} {<278>---<088>} {} {aylor} {} {smallroad_ew} {} {1.000} {}
+E {32497} {e} {e} {2} {0} {} {1.000} {}
+E {32492} {n} {n} {1} {0} {} {1.000} {}
+E {32503} {s} {s} {4} {0} {} {1.000} {}
+E {32494} {w} {w} {8} {0} {} {1.000} {}
+
+R {32497} {0} {<278>} {Lightsoil Boardwalk} {<278>---<088>} {} {aylor} {} {smallroad_ew} {} {1.000} {}
+E {32498} {e} {e} {2} {0} {} {1.000} {}
+E {32491} {n} {n} {1} {0} {} {1.000} {}
+E {32502} {s} {s} {4} {0} {} {1.000} {}
+E {32496} {w} {w} {8} {0} {} {1.000} {}
+
+R {32498} {0} {<278>} {Lightsoil Boardwalk} {<278>---<088>} {} {aylor} {} {smallroad_ew} {} {1.000} {}
+E {32499} {e} {e} {2} {0} {} {1.000} {}
+E {32490} {n} {n} {1} {0} {} {1.000} {}
+E {32501} {s} {s} {4} {0} {} {1.000} {}
+E {32497} {w} {w} {8} {0} {} {1.000} {}
+
+R {32499} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {32500} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {32501} {0} {<138>} {Pristine Beach} {<138>, `<088>} {} {aylor} {} {beach} {} {1.000} {}
+E {32500} {e} {e} {2} {0} {} {1.000} {}
+E {32498} {n} {n} {1} {0} {} {1.000} {}
+E {32509} {s} {s} {4} {0} {} {1.000} {}
+E {32502} {w} {w} {8} {0} {} {1.000} {}
+E {   10} {d} {d} {32} {0} {} {1.000} {}
+E {   11} {u} {u} {16} {0} {} {1.000} {}
+
+R {32502} {0} {<138>} {Pristine Beach} {<138>, `<088>} {} {aylor} {} {beach} {} {1.000} {}
+E {32501} {e} {e} {2} {0} {} {1.000} {}
+E {32497} {n} {n} {1} {0} {} {1.000} {}
+E {32508} {s} {s} {4} {0} {} {1.000} {}
+E {32503} {w} {w} {8} {0} {} {1.000} {}
+
+R {32503} {0} {<268>} {On Pristine Lake} {<268>~ ~<088>} {} {aylor} {} {shore} {} {1.000} {}
+E {32502} {e} {e} {2} {0} {} {1.000} {}
+E {32496} {n} {n} {1} {0} {} {1.000} {}
+E {32507} {s} {s} {4} {0} {} {1.000} {}
+E {32504} {w} {w} {8} {0} {} {1.000} {}
+
+R {32504} {0} {<268>} {On Pristine Lake} {<268>~ ~<088>} {} {aylor} {} {waterswim} {} {1.000} {}
+E {32503} {e} {e} {2} {0} {} {1.000} {}
+E {32494} {n} {n} {1} {0} {} {1.000} {}
+E {32506} {s} {s} {4} {0} {} {1.000} {}
+E {32505} {w} {w} {8} {0} {} {1.000} {}
+
+R {32505} {0} {<268>} {On Pristine Lake} {<268>~ ~<088>} {} {aylor} {} {shore} {} {1.000} {}
+E {32504} {e} {e} {2} {0} {} {1.000} {}
+E {32495} {n} {n} {1} {0} {} {1.000} {}
+
+R {32506} {0} {<228>} {Pristine Lake} {<228>. ^<088>} {} {aylor} {} {waterswim} {} {1.000} {}
+E {32507} {e} {e} {2} {0} {} {1.000} {}
+E {32504} {n} {n} {1} {0} {} {1.000} {}
+E {32510} {s} {s} {4} {0} {} {1.000} {}
+
+R {32507} {0} {<228>} {A small island} {<228>. ^<088>} {} {aylor} {} {field2} {} {1.000} {}
+E {32508} {e} {e} {2} {0} {} {1.000} {}
+E {32503} {n} {n} {1} {0} {} {1.000} {}
+E {32511} {s} {s} {4} {0} {} {1.000} {}
+E {32506} {w} {w} {8} {0} {} {1.000} {}
+
+R {32508} {0} {<268>} {On Pristine Lake} {<268>~ ~<088>} {} {aylor} {} {shore} {} {1.000} {}
+E { 2291} {d} {d} {32} {0} {} {1.000} {}
+E {32509} {e} {e} {2} {0} {} {1.000} {}
+E {32502} {n} {n} {1} {0} {} {1.000} {}
+E {32512} {s} {s} {4} {0} {} {1.000} {}
+E {32507} {w} {w} {8} {0} {} {1.000} {}
+
+R {32509} {0} {<138>} {On Pristine Lake} {<138>, `<088>} {} {aylor} {} {waterswim} {} {1.000} {}
+E {32501} {n} {n} {1} {0} {} {1.000} {}
+E {32513} {s} {s} {4} {0} {} {1.000} {}
+E {32508} {w} {w} {8} {0} {} {1.000} {}
+
+R {32510} {0} {<228>} {Pristine Lake} {<228>. ^<088>} {} {aylor} {} {waterswim} {} {1.000} {}
+E {32511} {e} {e} {2} {0} {} {1.000} {}
+E {32506} {n} {n} {1} {0} {} {1.000} {}
+E {32514} {s} {s} {4} {0} {} {1.000} {}
+
+R {32511} {0} {<228>} {Pristine Lake} {<228>. ^<088>} {} {aylor} {} {waterswim} {} {1.000} {}
+E {32512} {e} {e} {2} {0} {} {1.000} {}
+E {32507} {n} {n} {1} {0} {} {1.000} {}
+E {32515} {s} {s} {4} {0} {} {1.000} {}
+E {32510} {w} {w} {8} {0} {} {1.000} {}
+
+R {32512} {0} {<228>} {A small island} {<228>, `<088>} {} {aylor} {} {field} {} {1.000} {}
+E {32513} {e} {e} {2} {0} {} {1.000} {}
+E {32508} {n} {n} {1} {0} {} {1.000} {}
+E {32516} {s} {s} {4} {0} {} {1.000} {}
+E {32691} {u} {u} {16} {0} {} {1.000} {}
+E {32511} {w} {w} {8} {0} {} {1.000} {}
+
+R {32513} {0} {<228>} {The Lone Tree} {<228>( *<088>} {} {aylor} {} {forest} {} {1.000} {}
+E {32509} {n} {n} {1} {0} {} {1.000} {}
+E {32512} {w} {w} {8} {0} {} {1.000} {}
+
+R {32514} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {32515} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {32516} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {32518} {0} {<278>} {The Intersection of Whitewind and Darksoil} {<278>. .<088>} {} {aylor} {} {trail_ew} {} {1.000} {}
+E {32479} {n} {n} {1} {0} {} {1.000} {}
+E {32519} {s} {s} {4} {0} {} {1.000} {}
+
+R {32519} {0} {<278>} {Whitewind Avenue} {<278>. .<088>} {} {aylor} {} {city} {} {1.000} {}
+E {32518} {n} {n} {1} {0} {} {1.000} {}
+E {32520} {s} {s} {4} {0} {} {1.000} {}
+
+R {32520} {0} {<278>} {Whitewind Avenue} {<278>. .<088>} {} {aylor} {} {city} {} {1.000} {}
+E {32519} {n} {n} {1} {0} {} {1.000} {}
+E {32521} {w} {w} {8} {0} {} {1.000} {}
+E {32535} {s} {s} {4} {0} {} {1.000} {}
+
+R {32521} {0} {<278>} {Whitewind Avenue at the corner of Faeriefog Lane} {<278>-+-<088>} {} {aylor} {} {road_crossroads} {} {1.000} {}
+E {32520} {e} {e} {2} {0} {} {1.000} {}
+E {32522} {w} {w} {8} {0} {} {1.000} {}
+
+R {32522} {0} {<278>} {Faeriefog Lane} {<278>- -<088>} {} {aylor} {} {road_eastwest} {} {1.000} {}
+E {32521} {e} {e} {2} {0} {} {1.000} {}
+E {32580} {s} {s} {4} {0} {} {1.000} {}
+E {32523} {w} {w} {8} {0} {} {1.000} {}
+
+R {32523} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {32529} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {32530} {0} {<278>} {Silvermist Road} {<278>- -<088>} {} {aylor} {} {road_eastwest} {} {1.000} {}
+E {32531} {e} {e} {2} {0} {} {1.000} {}
+E {32573} {n} {n} {1} {0} {} {1.000} {}
+E {32574} {s} {s} {4} {0} {} {1.000} {}
+E {32529} {w} {w} {8} {0} {} {1.000} {}
+
+R {32531} {0} {<228>} {Yvan Park} {<228>, `<088>} {} {aylor} {} {field} {} {1.000} {}
+E {32532} {e} {e} {2} {0} {} {1.000} {}
+E {32583} {n} {n} {1} {0} {} {1.000} {}
+E {32530} {w} {w} {8} {0} {} {1.000} {}
+
+R {32532} {0} {<278>} {Silvermist Road} {<278>- -<088>} {} {aylor} {} {road_eastwest} {} {1.000} {}
+E {32533} {e} {e} {2} {0} {} {1.000} {}
+E {32572} {n} {n} {1} {0} {} {1.000} {}
+E {32531} {w} {w} {8} {0} {} {1.000} {}
+
+R {32533} {0} {<278>} {Silvermist Road} {<278>- -<088>} {} {aylor} {} {road_eastwest} {} {1.000} {}
+E {32534} {n} {n} {1} {0} {} {1.000} {}
+E {32536} {s} {s} {4} {0} {} {1.000} {}
+E {32532} {w} {w} {8} {0} {} {1.000} {}
+
+R {32534} {0} {<278>} {Silvermist Road intersects with Whitewind Avenue} {<278>-+-<088>} {} {aylor} {} {road_crossroads} {} {1.000} {}
+E {32569} {e} {e} {2} {0} {} {1.000} {}
+E {32535} {n} {n} {1} {0} {} {1.000} {}
+E {32533} {s} {s} {4} {0} {} {1.000} {}
+
+R {32535} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {32536} {0} {<278>} {Silvermist Road intersects with Whitewind Avenue} {<278>-+-<088>} {} {aylor} {} {road_crossroads} {} {1.000} {}
+E {32533} {n} {n} {1} {0} {} {1.000} {}
+E {32537} {s} {s} {4} {0} {} {1.000} {}
+
+R {32537} {0} {<278>} {Continuing on Whitewind} {<278>. .<088>} {} {aylor} {} {city} {} {1.000} {}
+E {32536} {n} {n} {1} {0} {} {1.000} {}
+E {32538} {s} {s} {4} {0} {} {1.000} {}
+
+R {32538} {0} {<278>} {Whitewind Avenue} {<278>. .<088>} {} {aylor} {} {city} {} {1.000} {}
+E { 2339} {d} {d} {32} {0} {} {1.000} {}
+E {32537} {n} {n} {1} {0} {} {1.000} {}
+E {12725} {s} {s} {4} {0} {} {1.000} {}
+E {29211} {u} {u} {16} {0} {} {1.000} {}
+
+R {32539} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {32569} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {32572} {0} {<278>} {Silvermist Road} {<278>- -<088>} {} {aylor} {} {road_eastwest} {} {1.000} {}
+
+R {32573} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {32574} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {32580} {0} {<278>} {Faeriefog Lane} {<278>- -<088>} {} {aylor} {} {road_eastwest} {} {1.000} {}
+E {32581} {e} {e} {2} {0} {} {1.000} {}
+E {32522} {n} {n} {1} {0} {} {1.000} {}
+E {32583} {s} {s} {4} {0} {} {1.000} {}
+E {32582} {w} {w} {8} {0} {} {1.000} {}
+
+R {32581} {0} {<228>} {Entrance to Yvan Park} {<228>, `<088>} {} {aylor} {} {field} {} {1.000} {}
+E {32580} {w} {w} {8} {0} {} {1.000} {}
+
+R {32582} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {32583} {0} {<228>} {Entrance to Yvan Park} {<228>, `<088>} {} {aylor} {} {field} {} {1.000} {}
+E {32580} {n} {n} {1} {0} {} {1.000} {}
+E {32531} {s} {s} {4} {0} {} {1.000} {}
+
+R {32587} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {32615} {0} {<fca>} {The Grand City of Aylor} { } {} {aylor} {} {aylorcity} {} {1.000} {}
+E {32616} {e} {e} {2} {0} {} {1.000} {}
+E {35679} {n} {n} {1} {0} {} {1.000} {}
+E {32418} {u} {u} {16} {0} {} {1.000} {}
+E {32617} {w} {w} {8} {0} {} {1.000} {}
+
+R {32616} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {32617} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {32691} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {32698} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {34212} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {35200} {0} {<fca>} {The Grand City of Aylor} { } {} {aylor} {} {aylorcity} {} {1.000} {}
+E {32418} {d} {d} {32} {0} {} {1.000} {}
+E {35201} {n} {n} {1} {0} {} {1.000} {}
+E {49256} {s} {s} {4} {0} {} {1.000} {}
+
+R {35201} {0} {<fca>} {Outside the Aylorian Academy} { } {} {academy} {} {city} {} {1.000} {}
+E {35229} {n} {n} {1} {0} {} {1.000} {}
+E {35200} {s} {s} {4} {0} {} {1.000} {}
+
+R {35229} {0} {<fca>} {Before the Academy Courtyard} { } {} {academy} {} {inside} {} {1.000} {}
+E {35231} {e} {e} {2} {0} {} {1.000} {}
+E {35233} {n} {n} {1} {0} {} {1.000} {}
+E {35201} {s} {s} {4} {0} {} {1.000} {}
+E {35232} {w} {w} {8} {0} {} {1.000} {}
+
+R {35231} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {35232} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {35233} {0} {<fca>} {Academy Courtyard} { } {} {academy} {} {city} {} {1.000} {}
+E {35235} {e} {e} {2} {0} {} {1.000} {}
+E {35308} {n} {n} {1} {0} {} {1.000} {}
+E {35229} {s} {s} {4} {0} {} {1.000} {}
+E {35234} {w} {w} {8} {0} {} {1.000} {}
+
+R {35234} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {35235} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {35308} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {35679} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {38561} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {42000} {0} {<238>} {Rocky Shores} {<238>A A<088>} {} {abend} {} {mountain} {} {1.000} {}
+
+R {47195} {0} {<fca>} {[1\;32mMudpits[0\;37m} { } {} {bootcamp} {} {field} {} {1.000} {}
+E {32418} {d} {d} {32} {0} {} {1.000} {}
+E {47200} {e} {e} {2} {0} {} {1.000} {}
+E {47218} {n} {n} {1} {0} {} {1.000} {}
+E {49393} {s} {s} {4} {0} {} {1.000} {}
+E {47220} {u} {u} {16} {0} {} {1.000} {}
+E {49260} {w} {w} {8} {0} {} {1.000} {}
+
+R {47200} {0} {<fca>} {[1\;32mRecreation Room[0\;37m} { } {} {bootcamp} {} {shop} {} {1.000} {}
+E {47210} {d} {d} {32} {0} {} {1.000} {}
+E {49392} {e} {e} {2} {0} {} {1.000} {}
+E {47195} {w} {w} {8} {0} {} {1.000} {}
+
+R {47210} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {47218} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {47220} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {49256} {0} {<fca>} {Outside the Aylorian Academy} { } {} {academy} {} {city} {} {1.000} {}
+E {35200} {n} {n} {1} {0} {} {1.000} {}
+E {49392} {w} {w} {8} {0} {} {1.000} {}
+
+R {49260} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}
+
+R {49345} {0} {<fca>} {[1\;32mRecreation Room[0\;37m} { } {} {bootcamp} {} {shop} {} {1.000} {}
+E {49392} {n} {n} {1} {0} {} {1.000} {}
+
+R {49392} {0} {<fca>} {[1\;32mBoot Clan Public Hall[0\;37m} { } {} {bootcamp} {} {shop} {} {1.000} {}
+E {49256} {e} {e} {2} {0} {} {1.000} {}
+E {49345} {s} {s} {4} {0} {} {1.000} {}
+E {47200} {w} {w} {8} {0} {} {1.000} {}
+
+R {49393} {0} {<fca>} {} { } {} {} {} {} {} {1.000} {}

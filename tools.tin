@@ -1,0 +1,8 @@
+#macro {\e[1;2A} {#buffer up};
+#macro {\e[1;2B} {#buffer down};
+
+#unaction {%*\\n} {#sh {%1};#line gag} {7};
+
+#action {Alas, you cannot go that way.} {#map undo;}
+#action {You need to use a boat, fly, or swim} {#map undo;}
+#action {The door is closed} {#map undo};
