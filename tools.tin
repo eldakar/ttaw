@@ -6,3 +6,5 @@
 #action {Alas, you cannot go that way.} {#map undo;}
 #action {You need to use a boat, fly, or swim} {#map undo;}
 #action {The door is closed} {#map undo};
+
+#action {You are %* level to enter that room.} {#map undo;}
